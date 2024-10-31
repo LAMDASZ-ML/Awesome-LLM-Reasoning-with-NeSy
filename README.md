@@ -1,9 +1,9 @@
-# Awesome-Neuro-Symbolic-Learning
+# Awesome-Neuro-Symbolic-Learning-with-LLM
 
-✨✨Latest Advances on Neuro-Symbolic Learning
+✨✨Latest Advances on Neuro-Symbolic Learning with LLM
 
 <font size=5><b> Table of Contents </b></font>
-- [Awesome-Neuro-Symbolic-Learning](#awesome-neuro-symbolic-learning)
+- [Awesome-Neuro-Symbolic-Learning-with-LLM](#awesome-neuro-symbolic-learning-with-llm)
 - [Awesome Tutorials \& Workshops](#awesome-tutorials--workshops)
 - [Awesome Survey](#awesome-survey)
 - [Awesome Papers](#awesome-papers)
