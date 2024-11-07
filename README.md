@@ -7,21 +7,81 @@
 - [Awesome Tutorials \& Workshops](#awesome-tutorials--workshops)
 - [Awesome Survey](#awesome-survey)
 - [Awesome Papers](#awesome-papers)
+  - [LLM for Neural-Symbolic Learning](#llm-for-neural-symbolic-learning)
+  - [Nesy for LLM Reasoning \& Planning](#nesy-for-llm-reasoning--planning)
+  - [Application](#application)
+    - [Nesy for Visual Reasoning](#nesy-for-visual-reasoning)
+    - [Nesy for Math](#nesy-for-math)
+    - [Nesy for Agent](#nesy-for-agent)
+    - [Nesy for RL](#nesy-for-rl)
+    - [Nesy for Embodied AI](#nesy-for-embodied-ai)
+    - [Nesy for AIGC](#nesy-for-aigc)
+  - [Misc](#misc)
 - [Awesome Datasets](#awesome-datasets)
 
 # Awesome Tutorials & Workshops
 
 - [Advances in Neuro Symbolic Reasoning and Learning](https://neurosymbolic.asu.edu/2023-aaai-tutorial-advances-in-neuro-symbolic-reasoning/) AAAI 2023
 - [Neuro-Symbolic Approaches: Large Language Models + Tool Use](https://wenting-zhao.github.io/complex-reasoning-tutorial/slides/6.pdf) ACL 2023
-- [Neuro-Symbolic Visual Reasoning and Program Synthesis](http://nscv.csail.mit.edu/)
+- [Neuro-Symbolic Visual Reasoning and Program Synthesis](http://nscv.csail.mit.edu/) CVPR 2020
 - [Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models](https://nuclear-workshop.github.io/aaai2024/) Workshop in AAAI 2024
 
 # Awesome Survey
 - [Neuro-Symbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876)
 - [Neuro-Symbolic AI and its Taxonomy: A Survey](https://arxiv.org/pdf/2305.08876)
-
+- [From Statistical Relational to Neuro-Symbolic Artificial Intelligence: a Survey](https://arxiv.org/pdf/2108.11451)
+  
 # Awesome Papers
+## LLM for Neural-Symbolic Learning
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**Symbol-LLM: Leverage Language Models for Symbolic System in Visual Human Activity Reasoning**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5edb57c05c81d04beb716ef1d542fe9e-Abstract-Conference.html) <br> | NeurIPS | 2023 |[Github](https://mvig-rhos.com/symbol_llm)|
+|[**Large Language Models Are Neurosymbolic Reasoners**](https://arxiv.org/abs/2401.09334) <br> | AAAI | 2024 | [Github](https://github.com/hyintell/LLMSymbolic) |
+|[**AutoSAT: Automatically Optimize SAT Solvers via Large Language Models**](https://arxiv.org/pdf/2402.10705) <br> | Arxiv | 2024 | - |
+|[**MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning**](https://arxiv.org/pdf/2205.00445) <br> | Arxiv | 2022 | - |
+## Nesy for LLM Reasoning & Planning
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**LLM Sandwich: NeuroSymbolic Approach to Solving Complex Reasoning Problem**](https://aclanthology.org/2023.emnlp-main.313.pdf) <br> | ACL | 2023 | [Github](https://github.com/benlipkin/linc) |
+|[**Neuro-Symbolic Procedural Planning with Commonsense Prompting**](https://arxiv.org/pdf/2206.02928) <br> | ICLR | 2023 |[Github](https://github.com/YujieLu10/CLAP)|
+|[**Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos**](https://openaccess.thecvf.com/content/CVPR2024/papers/Nagasinghe_Why_Not_Use_Your_Textbook_Knowledge-Enhanced_Procedure_Planning_of_Instructional_CVPR_2024_paper.pdf) <br> | CVPR | 2024 |[Github](https://github.com/Ravindu-Yasas-Nagasinghe/KEPP)|
+|[**Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning**](https://arxiv.org/abs/2305.12295) <br> | EMNLP | 2023 |[Github](https://github.com/teacherpeterpan/Logic-LLM)|
+|[**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/pdf/2105.11259) <br> | Arxiv | 2021 |[Github](https://github.com/thunlp/PTR)|
 
+## Application
+### Nesy for Visual Reasoning 
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 | [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
+|[**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](https://arxiv.org/abs/1810.02338) <br> | NeurIPS | 2018 | [Github](https://github.com/kexinyi/ns-vqa) |
+|[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://jiajunwu.com/papers/left_nips.pdf)<br> | NeurIPS | 2023 | [Github](https://github.com/joyhsu0504/LEFT) |
+|[**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**](https://arxiv.org/abs/2303.13483)<br> | CVPR | 2023 | [Github](https://github.com/joyhsu0504/NS3D) |
+### Nesy for Math 
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**A Symbolic Framework for Evaluating Mathematical Reasoning and Generalisation with Transformers**](https://arxiv.org/abs/2305.12563) <br> | ACL | 2024 | [Github](https://github.com/jmeadows17/transformers-for-calculus) |
+|[**AlphaIntegrator: Transformer Action Search for Symbolic Integration Proofs**](https://arxiv.org/abs/2410.02666)<br> | Arxiv| 2024 | - |
+|[**Proving Olympiad Algebraic Inequalities without Human Demonstrations**](https://arxiv.org/abs/2406.14219)<br> | Arxiv| 2024 | - |
+
+
+### Nesy for Agent
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**Symbolic Learning Enables Self-Evolving Agents**](https://arxiv.org/pdf/2406.18532v1)<br> | Arxiv| 2024 | [Github](https://github.com/aiwaves-cn/agents) |
+
+### Nesy for RL
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**Neurosymbolic Reinforcement Learning with Formally Verified Exploration**](https://proceedings.neurips.cc/paper_files/paper/2020/file/448d5eda79895153938a8431919f4c9f-Paper.pdf)<br> | NeurIPS| 2020 | - |
+
+### Nesy for Embodied AI
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**Learning Neuro-Symbolic Skills for Bilevel Planning**](https://arxiv.org/abs/2206.10680)<br> | COIL | 2022 | [Github](https://github.com/Learning-and-Intelligent-Systems/predicators/releases/tag/skill-learning-june-2022) |
+
+### Nesy for AIGC 
+
+## Misc
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**On the Hardness of Probabilistic Neurosymbolic Learning**](https://proceedings.mlr.press/v235/maene24a.html) <br> | ICML | 2024 |-|
@@ -32,24 +92,17 @@
 |[**Bridging Neural and Symbolic Representations with Transitional Dictionary Learning**](https://openreview.net/forum?id=uqxBTcWRnj) <br> | ICLR | 2024 |-|
 |[**LogicMP: A Neuro-symbolic Approach for Encoding First-order Logic Constraints**](https://openreview.net/forum?id=BLGQ3oqldb) <br> | ICLR | 2024 |-|
 |[**GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules**](https://openreview.net/forum?id=MNShbDSxKH) <br> | ICLR | 2024 |-|
-|[**Large Language Models Are Neurosymbolic Reasoners**](https://arxiv.org/abs/2401.09334) <br> | AAAI | 2024 | [Github](https://github.com/hyintell/LLMSymbolic) |
 |[**Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**](https://arxiv.org/abs/2309.10814) <br> | ACL | 2024 | [Github](https://github.com/luohongyin/LangCode) |
-|[**A Symbolic Framework for Evaluating Mathematical Reasoning and Generalisation with Transformers**](https://arxiv.org/abs/2305.12563) <br> | ACL | 2024 | [Github](https://github.com/jmeadows17/transformers-for-calculus) |
 |[**Binding Language Models in Symbolic Languages**](https://openreview.net/forum?id=lH1PV42cbF) <br> | ICLR | 2023 |[Github](https://lm-code-binder.github.io/)|
-|[**Neuro-Symbolic Procedural Planning with Commonsense Prompting**](https://openreview.net/forum?id=iOc57X9KM54) <br> | ICLR | 2023 |[Github](https://sites.google.com/view/iclr-clap)|
 |[**Interpretable Neural-Symbolic Concept Reasoning**](https://proceedings.mlr.press/v202/barbiero23a/barbiero23a.pdf) <br> | ICML | 2023 |-|
 |[**Not All Neuro-Symbolic Concepts Are Created Equal: Analysis and Mitigation of Reasoning Shortcuts**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e560202b6e779a82478edb46c6f8f4dd-Abstract-Conference.html) <br> | NeurIPS | 2023 |-|
 |[**Localized Symbolic Knowledge Distillation for Visual Commonsense Models**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/257be12f31dfa7cc158dda99822c6fd1-Abstract-Conference.html) <br> | NeurIPS | 2023 |-|
-|[**Symbol-LLM: Leverage Language Models for Symbolic System in Visual Human Activity Reasoning**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5edb57c05c81d04beb716ef1d542fe9e-Abstract-Conference.html) <br> | NeurIPS | 2023 |-|
 |[**A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic Inference**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4d9944ab3330fe6af8efb9260aa9f307-Abstract-Conference.html) <br> | NeurIPS | 2023 |-|
 |[**Neuro-Symbolic Continual Learning:Knowledge, Reasoning Shortcuts and Concept Rehearsal**](https://proceedings.mlr.press/v202/marconato23a/marconato23a.pdf) <br> | ICML | 2023 | [Github](https://github.com/ema-marconato/NeSy-CL) |
-|[**LLM Sandwich: NeuroSymbolic Approach to Solving Complex Reasoning Problem**](https://aclanthology.org/2023.emnlp-main.313.pdf) <br> | ACL | 2023 | [Github](https://github.com/benlipkin/linc) |
-|[**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**](https://arxiv.org/abs/2303.13483)<br> | CVPR | 2023 | [Github](https://github.com/joyhsu0504/NS3D) |
-|[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://jiajunwu.com/papers/left_nips.pdf)<br> | NeurIPS | 2023 | [Github](https://github.com/joyhsu0504/LEFT) |
 |[**Bridging the Gap: Providing Post-Hoc Symbolic Explanations for Sequential Decision-Making Problems with Inscrutable Representations**](https://openreview.net/forum?id=o-1v9hdSult)<br> | NeurIPS | 2022 |-|
-|[**Learning Neuro-Symbolic Skills for Bilevel Planning**](https://arxiv.org/abs/2206.10680)<br> | COIL | 2022 | [Github](https://github.com/Learning-and-Intelligent-Systems/predicators/releases/tag/skill-learning-june-2022) |
-|[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 | [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
-|[**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](https://arxiv.org/abs/1810.02338) <br> | NeurIPS | 2018 | [Github](https://github.com/kexinyi/ns-vqa) |
+
+
+
 
 # Awesome Datasets
 
