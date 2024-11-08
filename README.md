@@ -74,6 +74,7 @@
 |[**Visual Concept-Metaconcept Learning**](https://arxiv.org/pdf/2002.01464) <br> | NeurIPS | 2019 |[Github](https://github.com/Glaciohound/VCML)|
 |[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 | [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
 |[**Learning to Infer and Execute 3D Shape Programs**](https://arxiv.org/abs/1901.02875) <br> | ICLR | 2019 | [Github](https://github.com/HobbitLong/shape2prog) |
+|[**FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations**](https://arxiv.org/pdf/2203.16639)<br> | ICLR | 2022 | - |
 |[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://jiajunwu.com/papers/left_nips.pdf)<br> | NeurIPS | 2023 | [Github](https://github.com/joyhsu0504/LEFT) |
 |[**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**](https://arxiv.org/abs/2303.13483)<br> | CVPR | 2023 | [Github](https://github.com/joyhsu0504/NS3D) |
 |[**GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules**](https://openreview.net/forum?id=MNShbDSxKH) <br> | ICLR | 2024 |-|
@@ -106,7 +107,8 @@
 |[**Knowledge-based Embodied Question Answering**](https://arxiv.org/pdf/2109.07872) <br> | TPAMI | 2023 |-|
 |[**Grounding Language Plans in Demonstrations through Counter-factual Perturbations**](https://arxiv.org/pdf/2403.17124) <br> | ICLR | 2024 |[Github](https://github.com/yanweiw/glide)|
 |[**Learning Adaptive Planning Representations with Natural Language Guidance**](https://arxiv.org/pdf/2312.08566) <br> | ICLR | 2024 |-|
-
+|[**Learning Reusable Manipulation Strategies**](https://arxiv.org/pdf/2311.03293) <br> | CORL | 2023 |-|
+|[**Compositional Diffusion-Based Continuous Constraint Solvers**](https://arxiv.org/abs/2309.00966) <br> | CORL | 2023 |[Github](https://github.com/zt-yang/diffusion-ccsp)|
 ### Nesy for AIGC 
 
 ## Misc
