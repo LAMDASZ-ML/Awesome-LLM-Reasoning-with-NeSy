@@ -150,6 +150,7 @@
 - [CLEVR Dataset](https://cs.stanford.edu/people/jcjohns/clevr/) for VQA
 - [GQA Dataset](https://cs.stanford.edu/people/dorarad/gqa/) for VQA
 - [LogiCity](https://jaraxxus-me.github.io/LogiCity/) for Abstract Urban Simulation
+- [LogicGame](https://www.arxiv.org/pdf/2408.15778) Benchmarking Rule-Based Reasoning Abilities of Large Language Models
 - [BabyAI](https://github.com/Farama-Foundation/Minigrid?tab=readme-ov-file)
 - [Minecraft](https://github.com/tomsilver/pddlgym)
 - [Mini-Behavior](https://github.com/StanfordVL/mini_behavior) for Embodied Tasks
