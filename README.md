@@ -42,6 +42,7 @@
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374) <br> | Arxiv | 2021 | [Github](https://github.com/openai/human-eval) |
+|[**Autoformalization with Large Language Models**](https://arxiv.org/abs/2205.12615) <br> | NeurIPS | 2022 | - |
 |[**MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning**](https://arxiv.org/pdf/2205.00445) <br> | Arxiv | 2022 | - |
 |[**Symbol-LLM: Leverage Language Models for Symbolic System in Visual Human Activity Reasoning**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5edb57c05c81d04beb716ef1d542fe9e-Abstract-Conference.html) <br> | NeurIPS | 2023 |[Github](https://mvig-rhos.com/symbol_llm)|
 |[**Large Language Models Are Neurosymbolic Reasoners**](https://arxiv.org/abs/2401.09334) <br> | AAAI | 2024 | [Github](https://github.com/hyintell/LLMSymbolic) |
