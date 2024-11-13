@@ -33,6 +33,7 @@
 # Awesome Survey
 - [Neuro-Symbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876)
 - [Neuro-Symbolic AI and its Taxonomy: A Survey](https://arxiv.org/pdf/2305.08876)
+- [Neurosymbolic AI - Why, What, and How](https://arxiv.org/pdf/2305.00813)
 - [From Statistical Relational to Neuro-Symbolic Artificial Intelligence: a Survey](https://arxiv.org/pdf/2108.11451)
 - [Neuro-Symbolic Artificial Intelligence: Current Trends](https://people.cs.ksu.edu/~hitzler/pub2/2021_AIC_NeSy.pdf)
   
@@ -45,6 +46,8 @@
 |[**Symbol-LLM: Leverage Language Models for Symbolic System in Visual Human Activity Reasoning**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5edb57c05c81d04beb716ef1d542fe9e-Abstract-Conference.html) <br> | NeurIPS | 2023 |[Github](https://mvig-rhos.com/symbol_llm)|
 |[**Large Language Models Are Neurosymbolic Reasoners**](https://arxiv.org/abs/2401.09334) <br> | AAAI | 2024 | [Github](https://github.com/hyintell/LLMSymbolic) |
 |[**AutoSAT: Automatically Optimize SAT Solvers via Large Language Models**](https://arxiv.org/pdf/2402.10705) <br> | Arxiv | 2024 | - |
+|[**Leveraging Environment Interaction for Automated PDDL Translation and Planning with Large Language Models**](https://openreview.net/pdf?id=RzlCqnncQv) <br> | NeurIPS | 2024 | [Github](https://github.com/BorealisAI/llm-pddl-planning) |
+|[**A Foundation Model for Zero-shot Logical Query Reasoning**](https://openreview.net/pdf?id=JRSyMBBJi6) <br> | NeurIPS | 2024 | - |
 
 
 ## Nesy for LLM Reasoning & Planning
@@ -70,6 +73,9 @@
 |[**Language Models can be Logical Solvers**](https://arxiv.org/pdf/2311.06158) <br> | ACL| 2024 | - |
 |[**Abstract Meaning Representation-Based Logic-Driven Data Augmentation for Logical Reasoning**](https://arxiv.org/abs/2305.12599) <br> | ACL| 2024 | [Github](https://github.com/Strong-AI-Lab/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning) |
 |[**Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos**](https://openaccess.thecvf.com/content/CVPR2024/papers/Nagasinghe_Why_Not_Use_Your_Textbook_Knowledge-Enhanced_Procedure_Planning_of_Instructional_CVPR_2024_paper.pdf) <br> | CVPR | 2024 |[Github](https://github.com/Ravindu-Yasas-Nagasinghe/KEPP)|
+|[**Learning to Reason Iteratively and Parallelly for Complex Visual Reasoning Scenarios**](https://openreview.net/pdf?id=uoJQ9qadjY) <br> | NeurIPS | 2024 | [Github](https://github.com/shantanuj/IPRM_Iterative_and_Parallel_Reasoning_Mechanism) |
+|[**Rule Based Rewards for Language Model Safety**](https://openreview.net/pdf?id=QVtwpT5Dmg) <br> | NeurIPS | 2024 | - |
+|[**KnowGPT: Knowledge Graph based PrompTing for Large Language Models**](https://openreview.net/pdf?id=PacBluO5m7) <br> | NeurIPS | 2024 | - |
 
 ## Nesy for the Explainable & Trustworthy
 |  Title  |   Venue  |   Date   |   Code   |
@@ -98,6 +104,7 @@
 |[**AlphaIntegrator: Transformer Action Search for Symbolic Integration Proofs**](https://arxiv.org/abs/2410.02666)<br> | Arxiv| 2024 | - |
 |[**Proving Olympiad Algebraic Inequalities without Human Demonstrations**](https://arxiv.org/abs/2406.14219)<br> | Arxiv| 2024 | - |
 |[**Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning**](https://arxiv.org/abs/2312.05571) <br> | AAAI | 2024 |-|
+|[**Neuro-Symbolic Data Generation for Math Reasoning**](https://openreview.net/pdf?id=CIcMZGLyZW) <br> | NeurIPS | 2024 |-|
 
 ### Nesy for Agent
 |  Title  |   Venue  |   Date   |   Code   |
