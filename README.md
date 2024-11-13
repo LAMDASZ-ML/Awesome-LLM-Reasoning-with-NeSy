@@ -95,7 +95,9 @@
 |[**Learning to Infer and Execute 3D Shape Programs**](https://arxiv.org/abs/1901.02875) <br> | ICLR | 2019 | [Github](https://github.com/HobbitLong/shape2prog) |
 |[**FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations**](https://arxiv.org/pdf/2203.16639)<br> | ICLR | 2022 | - |
 |[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://jiajunwu.com/papers/left_nips.pdf)<br> | NeurIPS | 2023 | [Github](https://github.com/joyhsu0504/LEFT) |
+|[**Visual Programming: Compositional visual reasoning without training**](https://arxiv.org/abs/2211.11559)<br> | CVPR (Best Paper) | 2023 | [Github](https://github.com/allenai/visprog) |
 |[**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**](https://arxiv.org/abs/2303.13483)<br> | CVPR | 2023 | [Github](https://github.com/joyhsu0504/NS3D) |
+|[**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128)<br> | CVPR | 2023 | [Github](https://github.com/cvlab-columbia/viper) |
 |[**GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules**](https://openreview.net/forum?id=MNShbDSxKH) <br> | ICLR | 2024 |-|
 
 ### Nesy for Math 
