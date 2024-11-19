@@ -22,7 +22,7 @@
 - [Awesome Datasets](#awesome-datasets)
 
 # Awesome Tutorials & Workshops
-
+- [Summer School on Neurosymbolic Programming](https://www.neurosymbolic.org/index.html)
 - [Advances in Neuro Symbolic Reasoning and Learning](https://neurosymbolic.asu.edu/2023-aaai-tutorial-advances-in-neuro-symbolic-reasoning/) AAAI 2023
 - [Neuro-Symbolic Approaches: Large Language Models + Tool Use](https://wenting-zhao.github.io/complex-reasoning-tutorial/slides/6.pdf) ACL 2023
 - [Neuro-Symbolic Visual Reasoning and Program Synthesis](http://nscv.csail.mit.edu/) CVPR 2020
@@ -38,6 +38,7 @@
 - [From Statistical Relational to Neuro-Symbolic Artificial Intelligence: a Survey](https://arxiv.org/pdf/2108.11451)
 - [Neuro-Symbolic Artificial Intelligence: Current Trends](https://people.cs.ksu.edu/~hitzler/pub2/2021_AIC_NeSy.pdf)
 - [A Review on Neuro-symbolic AI Improvements to Natural Language Processing](https://www.zemris.fer.hr/~ajovic/articles/Keber_et_al_MIPRO_2024_IEEE_copyright.pdf)
+- [Neurosymbolic Programming](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) [[Slides]](https://nips.cc/media/neurips-2022/Slides/55804.pdf)
   
 # Awesome Papers
 ## LLM for Neural-Symbolic Learning
@@ -57,6 +58,7 @@
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/pdf/2105.11259) <br> | Arxiv | 2021 |[Github](https://github.com/thunlp/PTR)|
+|[**A Generative-Symbolic Model for Logical Reasoning in NLU**](https://openreview.net/pdf?id=LucARkxeWoE) <br> | IJCAI Workshop | 2021 | - |
 |[**Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text**](https://aclanthology.org/2022.findings-acl.127/) <br> | ACL| 2022 | [Github](https://github.com/SiyuanWangw/LReasoner) |
 |[**PAL: Program-aided Language Models**](https://arxiv.org/abs/2211.10435) <br> | ICML | 2023 | [Github](https://reasonwithpal.com/) |
 |[**LLM Sandwich: NeuroSymbolic Approach to Solving Complex Reasoning Problem**](https://aclanthology.org/2023.emnlp-main.313.pdf) <br> | ACL | 2023 | [Github](https://github.com/benlipkin/linc) |
