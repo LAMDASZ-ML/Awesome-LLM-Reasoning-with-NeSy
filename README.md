@@ -4,7 +4,7 @@
 
 <font size=5><b> Table of Contents </b></font>
 - [Awesome-Neuro-Symbolic-Learning-with-LLM](#awesome-neuro-symbolic-learning-with-llm)
-- [Awesome Tutorials \& Workshops](#awesome-tutorials--workshops)
+- [Awesome Tutorials \& Workshops \& Talks](#awesome-tutorials--workshops--talks)
 - [Awesome Survey](#awesome-survey)
 - [Awesome Papers](#awesome-papers)
   - [LLM for Neural-Symbolic Learning](#llm-for-neural-symbolic-learning)
@@ -21,7 +21,7 @@
   - [Misc](#misc)
 - [Awesome Datasets](#awesome-datasets)
 
-# Awesome Tutorials & Workshops
+# Awesome Tutorials & Workshops & Talks
 - [Summer School on Neurosymbolic Programming](https://www.neurosymbolic.org/index.html)
 - [Advances in Neuro Symbolic Reasoning and Learning](https://neurosymbolic.asu.edu/2023-aaai-tutorial-advances-in-neuro-symbolic-reasoning/) AAAI 2023
 - [Neuro-Symbolic Approaches: Large Language Models + Tool Use](https://wenting-zhao.github.io/complex-reasoning-tutorial/slides/6.pdf) ACL 2023
