@@ -124,6 +124,7 @@
 |[**Proving Olympiad Algebraic Inequalities without Human Demonstrations**](https://arxiv.org/abs/2406.14219)<br> | Arxiv| 2024 | - |
 |[**Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning**](https://arxiv.org/abs/2312.05571) <br> | AAAI | 2024 |-|
 |[**Neuro-Symbolic Data Generation for Math Reasoning**](https://openreview.net/pdf?id=CIcMZGLyZW) <br> | NeurIPS | 2024 |-|
+|[**Autoformalize Mathematical Statements by Symbolic Equivalence and Semantic Consistency**](https://arxiv.org/abs/2410.20936) <br> | NeurIPS | 2024 |[Github](https://github.com/Miracle-Messi/Isa-AutoFormal)|
 
 ### Nesy for Agent
 |  Title  |   Venue  |   Date   |   Code   |
@@ -157,6 +158,8 @@
 |[**VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning**](https://arxiv.org/abs/2410.23156) <br> | Arxiv | 2024 |-|
 |[**A Framework for Neurosymbolic Robot Action Planning using Large Language Models**](https://arxiv.org/abs/2303.00438) <br> | Frontiers in Neurorobotics | 2024 |-|
 |[**Fast and Accurate Task Planning using Neuro-Symbolic Language Models and Multi-level Goal Decomposition**](https://arxiv.org/abs/2409.19250) <br> | Arxiv | 2024 |-|
+|[**ClevrSkills: Compositional Language and Visual Reasoning in Robotics**](https://arxiv.org/pdf/2411.09052v1) <br> | NeurIPS Benchmark | 2024 |[Github](https://github.com/Qualcomm-AI-research/ClevrSkills)|
+
 
 ### Nesy for AIGC 
 
