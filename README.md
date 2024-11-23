@@ -134,24 +134,42 @@
 ### Nesy for RL
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**Modular multitask reinforcement learning with policy sketches**](http://proceedings.mlr.press/v70/andreas17a.html)|ICML|2017|-|
+|[**Programmatically interpretable reinforcement learning**](http://proceedings.mlr.press/v80/verma18a.html)|ICML|2018|-|
+|[**SDRL: Interpretable and Data-efficient Deep Reinforcement Learning Leveraging Symbolic Planning**](https://arxiv.org/abs/1811.00090)|AAAI|2019|-|
+|[**Language as an Abstraction for Hierarchical Deep Reinforcement Learning**](https://arxiv.org/abs/1906.07343)|NeurIPS|2019||
+|[**Regression Planning Networks**](https://faculty.cc.gatech.edu/~danfei/rpn_neurips19_final.pdf)|NeurIPS|2019|-|
+|[**Synthesizing Programmatic Policies that Inductively Generalize**](https://openreview.net/forum?id=S1l8oANFDH)|ICLR|2020|
 |[**Neurosymbolic Reinforcement Learning with Formally Verified Exploration**](https://proceedings.neurips.cc/paper_files/paper/2020/file/448d5eda79895153938a8431919f4c9f-Paper.pdf)<br> | NeurIPS| 2020 | - |
+|[**Deepsynth: Program synthesis for automatic task segmentation in deep reinforcement learning**](https://arxiv.org/abs/1911.10244)|AAAI|2021|-|
 |[**Neuro-Symbolic Reinforcement Learning with First-Order Logic**](https://aclanthology.org/2021.emnlp-main.283/) <br> | EMNLP | 2021 |-|
+|[**Discovering symbolic policies with deep reinforcement learning**](https://proceedings.mlr.press/v139/landajuela21a.html)|ICML|2021|-|
+|[**Compositional Reinforcement Learning from Logical Specifications**](https://arxiv.org/abs/2106.13906)|NeurIPS|2021| - |
+|[**Program Synthesis Guided Reinforcement Learning for Partially Observed Environments**](https://arxiv.org/pdf/2102.11137)|NeurIPS|2021||
 |[**Neurosymbolic Reinforcement Learning and Planning: A Survey**](https://arxiv.org/abs/2309.01038) <br> | IEEE TAI | 2023 |-|
+|[**Hierarchical Programmatic Reinforcement Learning via Learning to Compose Programs**](https://arxiv.org/abs/2301.12950)|ICML| 2023| - |
+|[**Robust Subtask Learning for Compositional Generalization**](https://arxiv.org/abs/2302.02984)|ICML|2023|-|
+|[**Cosmos: Neurosymbolic Grounding for Compositional World Models**](https://arxiv.org/abs/2310.12690)|ICLR|2024|[Github](https://github.com/trishullab/cosmos)|
 |[**End-to-End Neuro-Symbolic Reinforcement Learning with Textual Explanations**](https://arxiv.org/abs/2403.12451) <br> | ICML | 2024 |[Github](https://ins-rl.github.io/)|
 
 ### Nesy for Embodied AI
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**Neural Task Programming: Learning to Generalize Across Hierarchical Tasks**](https://ai.stanford.edu/~yukez/papers/icra2018.pdf)|ICRA|2018||
+|[**Learning symbolic operators for task and motion planning**](https://arxiv.org/abs/2103.00589)|IROS|2021||
 |[**PDSketch: Integrated Domain Programming, Learning, and Planning**](https://pdsketch.csail.mit.edu/data/papers/2022NeurIPS-PDSketch.pdf) <br> | NeurIPS| 2022 | [Github](https://github.com/vacancy/PDSketch-Alpha-Release) |
 |[**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**](https://arxiv.org/pdf/2208.13266)<br> | Arxiv| 2022 | - |
 |[**Learning Neuro-Symbolic Skills for Bilevel Planning**](https://arxiv.org/abs/2206.10680)<br> | COIL | 2022 | [Github](https://github.com/Learning-and-Intelligent-Systems/predicators/releases/tag/skill-learning-june-2022) |
 |[**ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**](https://arxiv.org/abs/2209.11302) <br> | ICRA | 2023 |[Github](https://github.com/NVlabs/progprompt-vh)|
+|[**Learning Neuro-symbolic Programs for Language Guided Robot Manipulation**](https://arxiv.org/abs/2211.06652)|ICRA|2023||
 |[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://jiajunwu.com/papers/left_nips.pdf)<br> | NeurIPS | 2023 | [Github](https://github.com/joyhsu0504/LEFT) |
 |[**Programmatically Grounded, Compositionally Generalizable Robotic Manipulation**](https://arxiv.org/pdf/2304.13826) <br> | ICLR | 2023 |[Github](https://progport.github.io/)|
 |[**Knowledge-based Embodied Question Answering**](https://arxiv.org/pdf/2109.07872) <br> | TPAMI | 2023 |-|
 |[**Learning Adaptive Planning Representations with Natural Language Guidance**](https://arxiv.org/pdf/2312.08566) <br> | ICLR | 2024 |-|
 |[**Learning Reusable Manipulation Strategies**](https://arxiv.org/pdf/2311.03293) <br> | CORL | 2023 |-|
 |[**Compositional Diffusion-Based Continuous Constraint Solvers**](https://arxiv.org/abs/2309.00966) <br> | CORL | 2023 |[Github](https://github.com/zt-yang/diffusion-ccsp)|
+|[**Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation**](https://arxiv.org/pdf/2309.00987.pdf)  | CORL | 2023 ||
+|[**RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools**](https://arxiv.org/abs/2306.14447)|CORL|2023||
 |[**Hierarchical Planning and Learning for Robots in Stochastic Settings Using Zero-Shot Option Invention**](https://aair-lab.github.io/Publications/ss_aaai24.pdf) <br> | AAAI | 2024 |-|
 |[**Learning Neuro-Symbolic Abstractions for Robot Planning and Learning**](https://ojs.aaai.org/index.php/AAAI/article/view/30409) <br> | AAAI | 2024 |-|
 |[**Grounding Language Plans in Demonstrations through Counter-factual Perturbations**](https://arxiv.org/pdf/2403.17124) <br> | ICLR | 2024 |[Github](https://github.com/yanweiw/glide)|
