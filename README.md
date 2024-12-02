@@ -7,6 +7,7 @@
 - [Awesome Tutorials \& Workshops \& Talks](#awesome-tutorials--workshops--talks)
 - [Awesome Survey](#awesome-survey)
 - [Awesome Papers](#awesome-papers)
+  - [Classical Neuro-Symbolic Frameworks](#classical-neuro-symbolic-frameworks)
   - [LLM for Neural-Symbolic Learning](#llm-for-neural-symbolic-learning)
   - [Nesy for LLM Reasoning](#nesy-for-llm-reasoning)
   - [Nesy for Planning](#nesy-for-planning)
@@ -41,6 +42,20 @@
 - [Neurosymbolic Programming](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) [[Slides]](https://nips.cc/media/neurips-2022/Slides/55804.pdf)
   
 # Awesome Papers
+## Classical Neuro-Symbolic Frameworks
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**DeepProbLog: Neural Probabilistic Logic Programming**](https://arxiv.org/abs/1805.10872) <br> | NeurIPS | 2018 | [Github](https://github.com/ML-KULeuven/deepproblog) |
+|[**Learning Explanatory Rules from Noisy Data**](https://arxiv.org/abs/1711.04574) <br> | Journal of Artificial Intelligence Research | 2018 | [Github](https://github.com/ai-systems/DILP-Core) |
+|[**Neural Logic Machines**](https://arxiv.org/abs/1904.11694) <br> | ICLR | 2019 | [Github](https://github.com/google/neural-logic-machines) |
+|[**Bridging Machine Learning and Logical Reasoning by Abductive Learning**](https://proceedings.neurips.cc/paper_files/paper/2019/file/9c19a2aa1d84e04b0bd4bc888792bd1e-Paper.pdf) <br> | NeurIPS | 2019 | [Github](https://github.com/IBM/LNN) |
+|[**SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver**](https://arxiv.org/pdf/1905.12149) <br> | ICML | 2019 | [Github](https://github.com/locuslab/satnet) |
+|[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 | [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
+|[**NeurASP: Embracing Neural Networks into Answer Set Programming**](https://arxiv.org/abs/2307.07700) <br> | IJCAI | 2020 | [Github](https://github.com/azreasoners/NeurASP) |
+|[**Logical Neural Networks**](https://arxiv.org/pdf/2006.13155) <br> | Arxiv | 2020 | [Github](https://github.com/IBM/LNN) |
+|[**Ontology Reasoning with Deep Neural Networks**](https://arxiv.org/abs/1808.07980) <br> | Artificial Intelligence | 2020 | - |
+|[**Logic Tensor Networks**](https://arxiv.org/abs/2012.13635) <br> | Artificial Intelligence | 2022 | [Github](https://github.com/logictensornetworks/logictensornetworks) |
+
 ## LLM for Neural-Symbolic Learning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
