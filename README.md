@@ -7,7 +7,7 @@
 - [Awesome Tutorials \& Workshops \& Talks](#awesome-tutorials--workshops--talks)
 - [Awesome Survey](#awesome-survey)
 - [Awesome Papers](#awesome-papers)
-  - [Classical Neuro-Symbolic Frameworks](#classical-neuro-symbolic-frameworks)
+  - [Basic Neuro-Symbolic Frameworks](#basic-neuro-symbolic-frameworks)
   - [LLM for Neural-Symbolic Learning](#llm-for-neural-symbolic-learning)
   - [Nesy for LLM Reasoning](#nesy-for-llm-reasoning)
   - [Nesy for Planning](#nesy-for-planning)
@@ -42,7 +42,7 @@
 - [Neurosymbolic Programming](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) [[Slides]](https://nips.cc/media/neurips-2022/Slides/55804.pdf)
   
 # Awesome Papers
-## Classical Neuro-Symbolic Frameworks
+## Basic Neuro-Symbolic Frameworks
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**DeepProbLog: Neural Probabilistic Logic Programming**](https://arxiv.org/abs/1805.10872) <br> | NeurIPS | 2018 | [Github](https://github.com/ML-KULeuven/deepproblog) |
@@ -55,6 +55,7 @@
 |[**Logical Neural Networks**](https://arxiv.org/pdf/2006.13155) <br> | Arxiv | 2020 | [Github](https://github.com/IBM/LNN) |
 |[**Ontology Reasoning with Deep Neural Networks**](https://arxiv.org/abs/1808.07980) <br> | Artificial Intelligence | 2020 | - |
 |[**Logic Tensor Networks**](https://arxiv.org/abs/2012.13635) <br> | Artificial Intelligence | 2022 | [Github](https://github.com/logictensornetworks/logictensornetworks) |
+|[**Neuro-symbolic Learning Yielding Logical Constraints**](https://arxiv.org/abs/2410.20957) <br> | NeurIPS | 2023 | [Github](https://github.com/Lizn-zn/Nesy-Programming) |
 
 ## LLM for Neural-Symbolic Learning
 |  Title  |   Venue  |   Date   |   Code   |
