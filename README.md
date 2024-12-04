@@ -167,6 +167,8 @@
 |[**Robust Subtask Learning for Compositional Generalization**](https://arxiv.org/abs/2302.02984)|ICML|2023|-|
 |[**Cosmos: Neurosymbolic Grounding for Compositional World Models**](https://arxiv.org/abs/2310.12690)|ICLR|2024|[Github](https://github.com/trishullab/cosmos)|
 |[**End-to-End Neuro-Symbolic Reinforcement Learning with Textual Explanations**](https://arxiv.org/abs/2403.12451) <br> | ICML | 2024 |[Github](https://ins-rl.github.io/)|
+|[**Interpretable end-to-end Neurosymbolic Reinforcement Learning agents**](https://arxiv.org/abs/2410.14371)|Arxiv|2024|-|
+
 
 ### Nesy for Embodied AI
 |  Title  |   Venue  |   Date   |   Code   |
