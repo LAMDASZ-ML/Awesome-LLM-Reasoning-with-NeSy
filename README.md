@@ -92,8 +92,12 @@
 |[**LogicAsker: Evaluating and Improving the Logical Reasoning Ability of Large Language Models**](https://arxiv.org/abs/2401.00757) <br> | EMNLP | 2024 | [Github](https://github.com/yxwan123/LogicAsker) |
 |[**Language Models can be Logical Solvers**](https://arxiv.org/pdf/2311.06158) <br> | ACL| 2024 | - |
 |[**Abstract Meaning Representation-Based Logic-Driven Data Augmentation for Logical Reasoning**](https://arxiv.org/abs/2305.12599) <br> | ACL| 2024 | [Github](https://github.com/Strong-AI-Lab/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning) |
+|[**Learning to Reason via Program Generation, Emulation, and Search**](https://arxiv.org/abs/2405.16337) <br> | NeurIPS | 2024 | [Github](https://github.com/nweir127/CoGEX) |
 |[**Learning to Reason Iteratively and Parallelly for Complex Visual Reasoning Scenarios**](https://openreview.net/pdf?id=uoJQ9qadjY) <br> | NeurIPS | 2024 | [Github](https://github.com/shantanuj/IPRM_Iterative_and_Parallel_Reasoning_Mechanism) |
+|[**Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus**](https://arxiv.org/abs/2411.12498) <br> | NeurIPS | 2024 | - |
+|[**Adaptable Logical Control for Large Language Models**](https://arxiv.org/abs/2406.13892) <br> | NeurIPS | 2024 | - |
 |[**Rule Based Rewards for Language Model Safety**](https://openreview.net/pdf?id=QVtwpT5Dmg) <br> | NeurIPS | 2024 | - |
+|[**Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts**](https://arxiv.org/abs/2409.13728) <br> | NeurIPS | 2024 | - |
 |[**KnowGPT: Knowledge Graph based PrompTing for Large Language Models**](https://openreview.net/pdf?id=PacBluO5m7) <br> | NeurIPS | 2024 | - |
 
 ## Nesy for Planning
@@ -131,6 +135,7 @@
 |[**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128)<br> | CVPR | 2023 | [Github](https://github.com/cvlab-columbia/viper) |
 |[**Rapid Image Labeling via Neuro-Symbolic Learning**](https://dl.acm.org/doi/pdf/10.1145/3580305.3599485) <br> | KDD | 2023 |[Github](https://github.com/Neural-Symbolic-Image-Labeling/Rapid/)|
 |[**GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules**](https://openreview.net/forum?id=MNShbDSxKH) <br> | ICLR | 2024 |-|
+|[**Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification**](https://arxiv.org/abs/2410.04492) <br> | NeurIPS | 2024 |-|
 
 ### Nesy for Math 
 |  Title  |   Venue  |   Date   |   Code   |
@@ -141,6 +146,9 @@
 |[**Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning**](https://arxiv.org/abs/2312.05571) <br> | AAAI | 2024 |-|
 |[**Neuro-Symbolic Data Generation for Math Reasoning**](https://openreview.net/pdf?id=CIcMZGLyZW) <br> | NeurIPS | 2024 |-|
 |[**Autoformalize Mathematical Statements by Symbolic Equivalence and Semantic Consistency**](https://arxiv.org/abs/2410.20936) <br> | NeurIPS | 2024 |[Github](https://github.com/Miracle-Messi/Isa-AutoFormal)|
+|[**ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**](https://arxiv.org/abs/2309.17452) <br> | ICLR | 2024 |[Github](https://github.com/microsoft/ToRA)|
+|[**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**](https://arxiv.org/abs/2403.18120) <br> | ICLR | 2024 |[Github](https://github.com/jinpz/dtv)|
+|[**MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning**](https://arxiv.org/abs/2310.03731) <br> | ICLR | 2024 |[Github](https://github.com/mathllm/MathCoder)|
 
 ### Nesy for Agent
 |  Title  |   Venue  |   Date   |   Code   |
@@ -166,8 +174,14 @@
 |[**Hierarchical Programmatic Reinforcement Learning via Learning to Compose Programs**](https://arxiv.org/abs/2301.12950)|ICML| 2023| - |
 |[**Robust Subtask Learning for Compositional Generalization**](https://arxiv.org/abs/2302.02984)|ICML|2023|-|
 |[**Cosmos: Neurosymbolic Grounding for Compositional World Models**](https://arxiv.org/abs/2310.12690)|ICLR|2024|[Github](https://github.com/trishullab/cosmos)|
+|[**Learning Concept-Based Causal Transition and Symbolic Reasoning for Visual Planning**](https://arxiv.org/abs/2310.03325)|ICLR|2024|[Github](https://fqyqc.github.io/ConTranPlan/)|
+|[**Skill Machines: Temporal Logic Skill Composition in Reinforcement Learning**](https://arxiv.org/abs/2205.12532)|ICLR|2024|[Github](https://fqyqc.github.io/ConTranPlan/)|
+
+|[**Enhancing Human-AI Collaboration Through Logic-Guided Reasoning**](https://openreview.net/forum?id=TWC4gLoAxY)|ICLR|2024|-|
+|[**Neurosymbolic Grounding for Compositional World Models**](https://arxiv.org/abs/2310.12690)|ICLR|2024|[Github](https://trishullab.github.io/cosmos-web/)|
 |[**End-to-End Neuro-Symbolic Reinforcement Learning with Textual Explanations**](https://arxiv.org/abs/2403.12451) <br> | ICML | 2024 |[Github](https://ins-rl.github.io/)|
 |[**Interpretable end-to-end Neurosymbolic Reinforcement Learning agents**](https://arxiv.org/abs/2410.14371)|Arxiv|2024|-|
+|[**Temporal Logic Specification-Conditioned Decision Transformer for Offline Safe Reinforcement Learning**](https://arxiv.org/abs/2402.17217)|Arxiv|2024|-|
 
 
 ### Nesy for Embodied AI
