@@ -9,7 +9,6 @@
 <ol>
 <li><a href="#awesome-tutorials--workshops--talks">Awesome Tutorials & Workshops & Talks</a></li>
 <li><a href="#awesome-survey">Awesome Survey</a></li>
-<li><a href="#awesome-survey">Awesome Survey</a></li>
 <li><a href="#awesome-papers">Awesome Papers</a></li>
   <ul>
     <li><a href="#basic-neuro-symbolic-frameworks">Basic Neuro-Symbolic Frameworks</a></li>
