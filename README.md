@@ -79,7 +79,7 @@
 |[**A Foundation Model for Zero-shot Logical Query Reasoning**](https://openreview.net/pdf?id=JRSyMBBJi6) <br> | NeurIPS | 2024 | - |
 
 
-### Nesy for LLM Reasoning
+### Neural-Symbolic Learning for LLM Reasoning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/pdf/2105.11259) <br> | Arxiv | 2021 |[Github](https://github.com/thunlp/PTR)|
@@ -109,7 +109,7 @@
 |[**Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts**](https://arxiv.org/abs/2409.13728) <br> | NeurIPS | 2024 | - |
 |[**KnowGPT: Knowledge Graph based PrompTing for Large Language Models**](https://openreview.net/pdf?id=PacBluO5m7) <br> | NeurIPS | 2024 | - |
 
-### Nesy for Planning
+### Neural-Symbolic Learning for Planning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Learning Rational Subgoals from Demonstrations and Instructions**](https://arxiv.org/pdf/2303.05487) <br> | AAAI | 2023 |[Github](https://github.com/C-SUNSHINE/RSG-PyTorch-Release)|
@@ -145,10 +145,13 @@
 |[**Rapid Image Labeling via Neuro-Symbolic Learning**](https://dl.acm.org/doi/pdf/10.1145/3580305.3599485) <br> | KDD | 2023 |[Github](https://github.com/Neural-Symbolic-Image-Labeling/Rapid/)|
 |[**GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules**](https://openreview.net/forum?id=MNShbDSxKH) <br> | ICLR | 2024 |-|
 |[**Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification**](https://arxiv.org/abs/2410.04492) <br> | NeurIPS | 2024 |-|
+|[**Integrating Neural-Symbolic Reasoning With Variational Causal Inference Network for Explanatory Visual Question Answering**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10522958) <br> | TPAMI | 2024 |-|
+
 
 #### Nesy for Math 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**Solving Geometry Problems:Combining Text and Diagram Interpretation**](https://aclanthology.org/D15-1171.pdf)<br> | ACL | 2015 | - |
 |[**A Survey on Deep Learning for Theorem Proving**](https://arxiv.org/pdf/2404.09939)<br> | COLM | 2024 | - |
 |[**A Symbolic Framework for Evaluating Mathematical Reasoning and Generalization with Transformers**](https://arxiv.org/abs/2305.12563) <br> | ACL | 2024 | [Github](https://github.com/jmeadows17/transformers-for-calculus) |
 |[**AlphaIntegrator: Transformer Action Search for Symbolic Integration Proofs**](https://arxiv.org/abs/2410.02666)<br> | Arxiv| 2024 | - |
@@ -159,6 +162,8 @@
 |[**ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**](https://arxiv.org/abs/2309.17452) <br> | ICLR | 2024 |[Github](https://github.com/microsoft/ToRA)|
 |[**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**](https://arxiv.org/abs/2403.18120) <br> | ICLR | 2024 |[Github](https://github.com/jinpz/dtv)|
 |[**MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning**](https://arxiv.org/abs/2310.03731) <br> | ICLR | 2024 |[Github](https://github.com/mathllm/MathCoder)|
+|[**Autoformalizing Euclidean Geometry**](https://arxiv.org/pdf/2405.17216)<br> | ICML | 2024 | [Github](https://github.com/loganrjmurphy/LeanEuclid) |
+
 
 #### Nesy for Agent
 |  Title  |   Venue  |   Date   |   Code   |
