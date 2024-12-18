@@ -34,6 +34,7 @@
 ## Awesome Tutorials & Workshops & Talks
 - [Summer School on Neurosymbolic Programming](https://www.neurosymbolic.org/index.html)
 - [Advances in Neuro Symbolic Reasoning and Learning](https://neurosymbolic.asu.edu/2023-aaai-tutorial-advances-in-neuro-symbolic-reasoning/) AAAI 2023
+- [Neuro-Symbolic Methods for Language and Vision](https://sites.google.com/allenai.org/nsmlv-tutorial-aaai-22) AAAI 2022
 - [Neuro-Symbolic Approaches: Large Language Models + Tool Use](https://wenting-zhao.github.io/complex-reasoning-tutorial/slides/6.pdf) ACL 2023
 - [Neuro-Symbolic Visual Reasoning and Program Synthesis](http://nscv.csail.mit.edu/) CVPR 2020
 - [Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models](https://nuclear-workshop.github.io/aaai2024/) Workshop in AAAI 2024
@@ -48,6 +49,7 @@
 - [From Statistical Relational to Neuro-Symbolic Artificial Intelligence: a Survey](https://arxiv.org/pdf/2108.11451)
 - [Neuro-Symbolic Artificial Intelligence: Current Trends](https://people.cs.ksu.edu/~hitzler/pub2/2021_AIC_NeSy.pdf)
 - [A Review on Neuro-symbolic AI Improvements to Natural Language Processing](https://www.zemris.fer.hr/~ajovic/articles/Keber_et_al_MIPRO_2024_IEEE_copyright.pdf)
+- [Survey on Applications of Neurosymbolic Artificial Intelligence](https://arxiv.org/abs/2209.12618)
 - [Neurosymbolic Programming](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) [[Slides]](https://nips.cc/media/neurips-2022/Slides/55804.pdf)
   
 ## Awesome Papers
@@ -138,6 +140,7 @@
 |[**Program-Guided Image Manipulators**](https://jiajunwu.com/papers/pgim_iccv.pdf) <br> | ICCV | 2019 |-|
 |[**Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”**](https://arxiv.org/abs/2006.11524) <br> | ICML | 2020 | [Github](https://github.com/microsoft/DFOL-VQA) |
 |[**FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations**](https://arxiv.org/pdf/2203.16639)<br> | ICLR | 2022 | - |
+|[**A Neuro-Symbolic ASP Pipeline for Visual Question Answering**](https://arxiv.org/abs/2205.07548)<br> | ICLP | 2022 | - |
 |[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://jiajunwu.com/papers/left_nips.pdf)<br> | NeurIPS | 2023 | [Github](https://github.com/joyhsu0504/LEFT) |
 |[**Visual Programming: Compositional visual reasoning without training**](https://arxiv.org/abs/2211.11559)<br> | CVPR (Best Paper) | 2023 | [Github](https://github.com/allenai/visprog) |
 |[**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**](https://arxiv.org/abs/2303.13483)<br> | CVPR | 2023 | [Github](https://github.com/joyhsu0504/NS3D) |
@@ -176,6 +179,7 @@
 |[**Modular multitask reinforcement learning with policy sketches**](http://proceedings.mlr.press/v70/andreas17a.html)|ICML|2017|-|
 |[**Programmatically interpretable reinforcement learning**](http://proceedings.mlr.press/v80/verma18a.html)|ICML|2018|-|
 |[**SDRL: Interpretable and Data-efficient Deep Reinforcement Learning Leveraging Symbolic Planning**](https://arxiv.org/abs/1811.00090)|AAAI|2019|-|
+|[**LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning**](https://www.ijcai.org/proceedings/2019/0840.pdf)|IJCAI|2019|-|
 |[**Language as an Abstraction for Hierarchical Deep Reinforcement Learning**](https://arxiv.org/abs/1906.07343)|NeurIPS|2019||
 |[**Regression Planning Networks**](https://faculty.cc.gatech.edu/~danfei/rpn_neurips19_final.pdf)|NeurIPS|2019|-|
 |[**Synthesizing Programmatic Policies that Inductively Generalize**](https://openreview.net/forum?id=S1l8oANFDH)|ICLR|2020|
@@ -184,8 +188,9 @@
 |[**Neuro-Symbolic Reinforcement Learning with First-Order Logic**](https://aclanthology.org/2021.emnlp-main.283/) <br> | EMNLP | 2021 |-|
 |[**Discovering symbolic policies with deep reinforcement learning**](https://proceedings.mlr.press/v139/landajuela21a.html)|ICML|2021|-|
 |[**Compositional Reinforcement Learning from Logical Specifications**](https://arxiv.org/abs/2106.13906)|NeurIPS|2021| - |
-|[**Program Synthesis Guided Reinforcement Learning for Partially Observed Environments**](https://arxiv.org/pdf/2102.11137)|NeurIPS|2021||
+|[**Program Synthesis Guided Reinforcement Learning for Partially Observed Environments**](https://arxiv.org/pdf/2102.11137)|NeurIPS|2021|-|
 |[**Neurosymbolic Reinforcement Learning and Planning: A Survey**](https://arxiv.org/abs/2309.01038) <br> | IEEE TAI | 2023 |-|
+|[**Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework**](https://link.springer.com/article/10.1007/s10994-022-06142-7) <br> | Machine Learning | 2022 |-|
 |[**Hierarchical Programmatic Reinforcement Learning via Learning to Compose Programs**](https://arxiv.org/abs/2301.12950)|ICML| 2023| - |
 |[**Robust Subtask Learning for Compositional Generalization**](https://arxiv.org/abs/2302.02984)|ICML|2023|-|
 |[**Cosmos: Neurosymbolic Grounding for Compositional World Models**](https://arxiv.org/abs/2310.12690)|ICLR|2024|[Github](https://github.com/trishullab/cosmos)|
@@ -226,6 +231,9 @@
 
 
 #### Nesy for AIGC 
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**Neuro-Symbolic Generative Art: A Preliminary Study**](https://arxiv.org/pdf/2007.02171) <br> | Arxiv | 2020 |-|
 
 ### Misc
 |  Title  |   Venue  |   Date   |   Code   |
