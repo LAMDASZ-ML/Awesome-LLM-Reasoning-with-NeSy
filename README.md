@@ -1,28 +1,38 @@
-# Awesome-Neuro-Symbolic-Learning-with-LLM
+<h1 align="center"> Awesome-Neuro-Symbolic-Learning-with-LLM</h1>
 
-✨✨<b>Latest Advances on Neuro-Symbolic Learning in the Era of Foundation Models.</b>
+<p align="center">
+    ✨✨<b> Curated collection of papers and resources on latest Advances on Neuro-Symbolic Learning in the Era of Large Language Model</b>
+</p>
 
-<font size=5><b> Table of Contents </b></font>
-- [Awesome-Neuro-Symbolic-Learning-with-LLM](#awesome-neuro-symbolic-learning-with-llm)
-- [Awesome Tutorials \& Workshops \& Talks](#awesome-tutorials--workshops--talks)
-- [Awesome Survey](#awesome-survey)
-- [Awesome Papers](#awesome-papers)
-  - [Basic Neuro-Symbolic Frameworks](#basic-neuro-symbolic-frameworks)
-  - [LLM for Neural-Symbolic Learning](#llm-for-neural-symbolic-learning)
-  - [Nesy for LLM Reasoning](#nesy-for-llm-reasoning)
-  - [Nesy for Planning](#nesy-for-planning)
-  - [Nesy for the Explainable \& Trustworthy](#nesy-for-the-explainable--trustworthy)
-  - [Application](#application)
-    - [Nesy for Visual Reasoning](#nesy-for-visual-reasoning)
-    - [Nesy for Math](#nesy-for-math)
-    - [Nesy for Agent](#nesy-for-agent)
-    - [Nesy for RL](#nesy-for-rl)
-    - [Nesy for Embodied AI](#nesy-for-embodied-ai)
-    - [Nesy for AIGC](#nesy-for-aigc)
-  - [Misc](#misc)
-- [Awesome Datasets](#awesome-datasets)
+<details>
+<summary>🗂️ Table of Contents</summary>
+<ol>
+<li><a href="#awesome-tutorials--workshops--talks">Awesome Tutorials & Workshops & Talks</a></li>
+<li><a href="#awesome-survey">Awesome Survey</a></li>
+<li><a href="#awesome-survey">Awesome Survey</a></li>
+<li><a href="#awesome-papers">Awesome Papers</a></li>
+  <ul>
+    <li><a href="#basic-neuro-symbolic-frameworks">Basic Neuro-Symbolic Frameworks</a></li>
+    <li><a href="#llm-for-neural-symbolic-learning">LLM for Neural-Symbolic Learning</a></li>
+    <li><a href="#nesy-for-llm-reasoning">Nesy for LLM Reasoning</a></li>
+    <li><a href="#nesy-for-planning">Nesy for Planning</a></li>
+    <li><a href="#nesy-for-the-explainable--trustworthy">Nesy for the Explainable & Trustworthy</a></li>
+    <li><a href="#application">Application</a></li>
+      <ul>
+        <li><a href="#nesy-for-visual-reasoning">Nesy for Visual Reasoning</a></li>
+        <li><a href="#nesy-for-math">Nesy for Math</a></li>
+        <li><a href="#nesy-for-agent">Nesy for Agent</a></li>
+        <li><a href="#nesy-for-rl">Nesy for RL</a></li>
+        <li><a href="#nesy-for-embodied-ai">Nesy for Embodied AI</a></li>
+        <li><a href="#nesy-for-aigc">Nesy for AIGC</a></li>
+      </ul>
+    <li><a href="#misc">Misc</a></li>
+  </ul>
+</ol>
+<li><a href="#awesome-datasets">Awesome Datasets</a></li>
+</details>
 
-# Awesome Tutorials & Workshops & Talks
+## Awesome Tutorials & Workshops & Talks
 - [Summer School on Neurosymbolic Programming](https://www.neurosymbolic.org/index.html)
 - [Advances in Neuro Symbolic Reasoning and Learning](https://neurosymbolic.asu.edu/2023-aaai-tutorial-advances-in-neuro-symbolic-reasoning/) AAAI 2023
 - [Neuro-Symbolic Approaches: Large Language Models + Tool Use](https://wenting-zhao.github.io/complex-reasoning-tutorial/slides/6.pdf) ACL 2023
@@ -32,7 +42,7 @@
 - [Neuro-Symbolic Concepts for Robotic Manipulation](https://jiayuanm.com/data/2023-07-09-rss-neuro-symbolic-concepts.pdf) Talk given by Jiayuan Mao  [[Video]](https://www.youtube.com/watch?v=S8KsCtbJqz0)
 - [Building General-Purpose Robots with Compositional Action Abstractions](https://jiayuanm.com/data/2024-04-19-brown-compositional-action-abstractions.pdf) Talk given by Jiayuan Mao  
 
-# Awesome Survey
+## Awesome Survey
 - [Neuro-Symbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876)
 - [Neuro-Symbolic AI and its Taxonomy: A Survey](https://arxiv.org/pdf/2305.08876)
 - [Neurosymbolic AI - Why, What, and How](https://arxiv.org/pdf/2305.00813)
@@ -41,8 +51,8 @@
 - [A Review on Neuro-symbolic AI Improvements to Natural Language Processing](https://www.zemris.fer.hr/~ajovic/articles/Keber_et_al_MIPRO_2024_IEEE_copyright.pdf)
 - [Neurosymbolic Programming](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) [[Slides]](https://nips.cc/media/neurips-2022/Slides/55804.pdf)
   
-# Awesome Papers
-## Basic Neuro-Symbolic Frameworks
+## Awesome Papers
+### Basic Neuro-Symbolic Frameworks
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**DeepProbLog: Neural Probabilistic Logic Programming**](https://arxiv.org/abs/1805.10872) <br> | NeurIPS | 2018 | [Github](https://github.com/ML-KULeuven/deepproblog) |
@@ -57,7 +67,7 @@
 |[**Logic Tensor Networks**](https://arxiv.org/abs/2012.13635) <br> | Artificial Intelligence | 2022 | [Github](https://github.com/logictensornetworks/logictensornetworks) |
 |[**Neuro-symbolic Learning Yielding Logical Constraints**](https://arxiv.org/abs/2410.20957) <br> | NeurIPS | 2023 | [Github](https://github.com/Lizn-zn/Nesy-Programming) |
 
-## LLM for Neural-Symbolic Learning
+### LLM for Neural-Symbolic Learning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374) <br> | Arxiv | 2021 | [Github](https://github.com/openai/human-eval) |
@@ -70,7 +80,7 @@
 |[**A Foundation Model for Zero-shot Logical Query Reasoning**](https://openreview.net/pdf?id=JRSyMBBJi6) <br> | NeurIPS | 2024 | - |
 
 
-## Nesy for LLM Reasoning
+### Nesy for LLM Reasoning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/pdf/2105.11259) <br> | Arxiv | 2021 |[Github](https://github.com/thunlp/PTR)|
@@ -100,7 +110,7 @@
 |[**Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts**](https://arxiv.org/abs/2409.13728) <br> | NeurIPS | 2024 | - |
 |[**KnowGPT: Knowledge Graph based PrompTing for Large Language Models**](https://openreview.net/pdf?id=PacBluO5m7) <br> | NeurIPS | 2024 | - |
 
-## Nesy for Planning
+### Nesy for Planning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Learning Rational Subgoals from Demonstrations and Instructions**](https://arxiv.org/pdf/2303.05487) <br> | AAAI | 2023 |[Github](https://github.com/C-SUNSHINE/RSG-PyTorch-Release)|
@@ -109,15 +119,15 @@
 |[**Learning Planning Abstractions from Language**](https://arxiv.org/pdf/2405.03864) <br> | ICLR | 2024 |-|
 
 
-## Nesy for the Explainable & Trustworthy
+### Nesy for the Explainable & Trustworthy
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation**](https://arxiv.org/abs/2203.05843) <br> | ACL| 2022 | [Github](https://github.com/shiquanyang/NS-Dial) |
 |[**Bridging the Gap: Providing Post-Hoc Symbolic Explanations for Sequential Decision-Making Problems with Inscrutable Representations**](https://openreview.net/forum?id=o-1v9hdSult)<br> | NeurIPS | 2022 |-|
 |[**Interpretable Neural-Symbolic Concept Reasoning**](https://proceedings.mlr.press/v202/barbiero23a/barbiero23a.pdf) <br> | ICML | 2023 |-|
 
-## Application
-### Nesy for Visual Reasoning 
+### Application
+#### Nesy for Visual Reasoning 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](https://arxiv.org/abs/1810.02338) <br> | NeurIPS | 2018 | [Github](https://github.com/kexinyi/ns-vqa) |
@@ -137,7 +147,7 @@
 |[**GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules**](https://openreview.net/forum?id=MNShbDSxKH) <br> | ICLR | 2024 |-|
 |[**Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification**](https://arxiv.org/abs/2410.04492) <br> | NeurIPS | 2024 |-|
 
-### Nesy for Math 
+#### Nesy for Math 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**A Survey on Deep Learning for Theorem Proving**](https://arxiv.org/pdf/2404.09939)<br> | COLM | 2024 | - |
@@ -151,12 +161,12 @@
 |[**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**](https://arxiv.org/abs/2403.18120) <br> | ICLR | 2024 |[Github](https://github.com/jinpz/dtv)|
 |[**MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning**](https://arxiv.org/abs/2310.03731) <br> | ICLR | 2024 |[Github](https://github.com/mathllm/MathCoder)|
 
-### Nesy for Agent
+#### Nesy for Agent
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Symbolic Learning Enables Self-Evolving Agents**](https://arxiv.org/pdf/2406.18532v1)<br> | Arxiv| 2024 | [Github](https://github.com/aiwaves-cn/agents) |
 
-### Nesy for RL
+#### Nesy for RL
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Modular multitask reinforcement learning with policy sketches**](http://proceedings.mlr.press/v70/andreas17a.html)|ICML|2017|-|
@@ -184,7 +194,7 @@
 |[**Temporal Logic Specification-Conditioned Decision Transformer for Offline Safe Reinforcement Learning**](https://arxiv.org/abs/2402.17217)|Arxiv|2024|-|
 
 
-### Nesy for Embodied AI
+#### Nesy for Embodied AI
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Neural Task Programming: Learning to Generalize Across Hierarchical Tasks**](https://ai.stanford.edu/~yukez/papers/icra2018.pdf)|ICRA|2018||
@@ -211,9 +221,9 @@
 |[**ClevrSkills: Compositional Language and Visual Reasoning in Robotics**](https://arxiv.org/pdf/2411.09052v1) <br> | NeurIPS Benchmark | 2024 |[Github](https://github.com/Qualcomm-AI-research/ClevrSkills)|
 
 
-### Nesy for AIGC 
+#### Nesy for AIGC 
 
-## Misc
+### Misc
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Harnessing Deep Neural Networks with Logic Rules**](https://arxiv.org/abs/1603.06318) <br> | ACL | 2016 |-|
@@ -236,7 +246,7 @@
 
 
 
-# Awesome Datasets
+## Awesome Datasets
 
 - [CLEVR Dataset](https://cs.stanford.edu/people/jcjohns/clevr/) for VQA
 - [GQA Dataset](https://cs.stanford.edu/people/dorarad/gqa/) for VQA
