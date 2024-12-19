@@ -64,6 +64,7 @@
 |[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 | [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
 |[**NeurASP: Embracing Neural Networks into Answer Set Programming**](https://arxiv.org/abs/2307.07700) <br> | IJCAI | 2020 | [Github](https://github.com/azreasoners/NeurASP) |
 |[**Logical Neural Networks**](https://arxiv.org/pdf/2006.13155) <br> | Arxiv | 2020 | [Github](https://github.com/IBM/LNN) |
+|[**Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning**](https://arxiv.org/pdf/2006.06649) <br> | ICML | 2020 | [Github](https://liqing-ustc.github.io/NGS) |
 |[**Ontology Reasoning with Deep Neural Networks**](https://arxiv.org/abs/1808.07980) <br> | Artificial Intelligence | 2020 | - |
 |[**Logic Tensor Networks**](https://arxiv.org/abs/2012.13635) <br> | Artificial Intelligence | 2022 | [Github](https://github.com/logictensornetworks/logictensornetworks) |
 |[**Neuro-symbolic Learning Yielding Logical Constraints**](https://arxiv.org/abs/2410.20957) <br> | NeurIPS | 2023 | [Github](https://github.com/Lizn-zn/Nesy-Programming) |
@@ -259,12 +260,13 @@
 
 
 ## Awesome Datasets
-
+- [Visual Sudoku](https://github.com/linqs/visual-sudoku-puzzle-classification)
 - [CLEVR Dataset](https://cs.stanford.edu/people/jcjohns/clevr/) for VQA
 - [GQA Dataset](https://cs.stanford.edu/people/dorarad/gqa/) for VQA
 - [LogiCity](https://jaraxxus-me.github.io/LogiCity/) for Abstract Urban Simulation
 - [LogicGame](https://www.arxiv.org/pdf/2408.15778) Benchmarking Rule-Based Reasoning Abilities of Large Language Models
-- [BabyAI](https://github.com/Farama-Foundation/Minigrid?tab=readme-ov-file)
+- [Minigrid](https://github.com/Farama-Foundation/Minigrid?tab=readme-ov-file)
+- [BabyAI](https://github.com/mila-iqia/babyai/tree/iclr19)
 - [Minecraft](https://github.com/tomsilver/pddlgym)
 - [Mini-Behavior](https://github.com/StanfordVL/mini_behavior) for Embodied Tasks
 - [CLIPort Dataset](https://cliport.github.io/) for Embodied Tasks
