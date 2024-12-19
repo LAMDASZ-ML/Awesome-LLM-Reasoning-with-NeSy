@@ -270,3 +270,4 @@
 - [ALFworld](https://github.com/alfworld/alfworld) for Embodied Tasks
 - [VirtualHome](http://virtual-home.org/) for Embodied Tasks
 - [Planbench](https://arxiv.org/pdf/2206.10498) for evaluating LLM Planning
+- [RSbench](https://unitn-sml.github.io/rsbench/) A Neuro-Symbolic Benchmark Suite for Concept Quality and Reasoning Shortcuts
