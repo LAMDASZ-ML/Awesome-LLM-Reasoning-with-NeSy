@@ -186,6 +186,7 @@
 |[**Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework**](https://link.springer.com/article/10.1007/s10994-022-06142-7) <br> | Machine Learning | 2022 |-|
 |[**Hierarchical Programmatic Reinforcement Learning via Learning to Compose Programs**](https://arxiv.org/abs/2301.12950)|ICML| 2023| - |
 |[**Robust Subtask Learning for Compositional Generalization**](https://arxiv.org/abs/2302.02984)|ICML|2023|-|
+|[**Interpretable and Explainable Logical Policies via Neurally Guided Symbolic Abstraction**](https://proceedings.neurips.cc/paper_files/paper/2023/file/9f42f06a54ce3b709ad78d34c73e4363-Paper-Conference.pdf)|NeurIPS|2023|[Github](https://github.com/k4ntz/NUDGE)|
 |[**Cosmos: Neurosymbolic Grounding for Compositional World Models**](https://arxiv.org/abs/2310.12690)|ICLR|2024|[Github](https://github.com/trishullab/cosmos)|
 |[**Learning Concept-Based Causal Transition and Symbolic Reasoning for Visual Planning**](https://arxiv.org/abs/2310.03325)|ICLR|2024|[Github](https://fqyqc.github.io/ConTranPlan/)|
 |[**Skill Machines: Temporal Logic Skill Composition in Reinforcement Learning**](https://arxiv.org/abs/2205.12532)|ICLR|2024|[Github](https://fqyqc.github.io/ConTranPlan/)|
