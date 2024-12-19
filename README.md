@@ -24,7 +24,7 @@
     <li><a href="#neuro-symbolic-learning-for-aigc">Neuro-Symbolic Learning for AIGC</a></li>
     <li><a href="#misc">Misc</a></li>
   </ul>
-<li><a href="#awesome-datasets">Awesome Datasets</a></li>
+<li><a href="#awesome-datasets--benchmarks">Awesome Datasets & Benchmarks</a></li>
 </ol>
 </details>
 
@@ -253,8 +253,8 @@
 
 
 
-## Awesome Datasets
-- [Visual Sudoku](https://github.com/linqs/visual-sudoku-puzzle-classification)
+## Awesome Datasets & Benchmarks
+- [Visual Sudoku](https://github.com/linqs/visual-sudoku-puzzle-classification): An visual sudoku puzzle
 - [CLEVR Dataset](https://cs.stanford.edu/people/jcjohns/clevr/) for VQA
 - [GQA Dataset](https://cs.stanford.edu/people/dorarad/gqa/) for VQA
 - [LogiCity](https://jaraxxus-me.github.io/LogiCity/) for Abstract Urban Simulation
@@ -266,3 +266,4 @@
 - [CLIPort Dataset](https://cliport.github.io/) for Embodied Tasks
 - [ALFworld](https://github.com/alfworld/alfworld) for Embodied Tasks
 - [VirtualHome](http://virtual-home.org/) for Embodied Tasks
+- [Planbench](https://arxiv.org/pdf/2206.10498) for evaluating LLM Planning
