@@ -60,6 +60,7 @@
 |[**SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver**](https://arxiv.org/pdf/1905.12149) <br> | ICML | 2019 | [Github](https://github.com/locuslab/satnet) |
 |[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 | [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
 |[**NeurASP: Embracing Neural Networks into Answer Set Programming**](https://arxiv.org/abs/2307.07700) <br> | IJCAI | 2020 | [Github](https://github.com/azreasoners/NeurASP) |
+|[**Learning programs by learning from failures**](https://arxiv.org/abs/2005.02259) <br> | Machine Learning | 2020 | - |
 |[**Logical Neural Networks**](https://arxiv.org/pdf/2006.13155) <br> | Arxiv | 2020 | [Github](https://github.com/IBM/LNN) |
 |[**Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning**](https://arxiv.org/pdf/2006.06649) <br> | ICML | 2020 | [Github](https://liqing-ustc.github.io/NGS) |
 |[**Ontology Reasoning with Deep Neural Networks**](https://arxiv.org/abs/1808.07980) <br> | Artificial Intelligence | 2020 | - |
