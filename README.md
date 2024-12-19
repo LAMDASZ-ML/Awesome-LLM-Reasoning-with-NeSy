@@ -5,7 +5,7 @@
 </p>
 
 <details>
-<summary>🗂️ Table of Contents</summary>
+<summary>🗂️ <font size="4"><b>Table of Contents</b></font></summary>
 <ol>
 <li><a href="#awesome-tutorials--workshops--talks">Awesome Tutorials & Workshops & Talks</a></li>
 <li><a href="#awesome-survey">Awesome Survey</a></li>
