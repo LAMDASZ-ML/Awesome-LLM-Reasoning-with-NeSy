@@ -12,23 +12,20 @@
 <li><a href="#awesome-papers">Awesome Papers</a></li>
   <ul>
     <li><a href="#basic-neuro-symbolic-frameworks">Basic Neuro-Symbolic Frameworks</a></li>
-    <li><a href="#llm-for-neural-symbolic-learning">LLM for Neural-Symbolic Learning</a></li>
-    <li><a href="#nesy-for-llm-reasoning">Nesy for LLM Reasoning</a></li>
-    <li><a href="#nesy-for-planning">Nesy for Planning</a></li>
-    <li><a href="#nesy-for-the-explainable--trustworthy">Nesy for the Explainable & Trustworthy</a></li>
-    <li><a href="#application">Application</a></li>
-      <ul>
-        <li><a href="#nesy-for-visual-reasoning">Nesy for Visual Reasoning</a></li>
-        <li><a href="#nesy-for-math">Nesy for Math</a></li>
-        <li><a href="#nesy-for-agent">Nesy for Agent</a></li>
-        <li><a href="#nesy-for-rl">Nesy for RL</a></li>
-        <li><a href="#nesy-for-embodied-ai">Nesy for Embodied AI</a></li>
-        <li><a href="#nesy-for-aigc">Nesy for AIGC</a></li>
-      </ul>
+    <li><a href="#llm-for-neurol-symbolic-learning">LLM for Neuro-Symbolic Learning</a></li>
+    <li><a href="#neuro-symbolic-learning-for-llm-reasoning">Neuro-Symbolic Learning for LLM Reasoning</a></li>
+    <li><a href="#neuro-symbolic-learning-for-planning">Neuro-Symbolic Learning for Planning</a></li>
+    <li><a href="#neuro-symbolic-learning-for-the-explainable--trustworthy">Neuro-Symbolic Learning for the Explainable & Trustworthy</a></li>
+    <li><a href="#neuro-symbolic-learning-for-visual-reasoning">Neuro-Symbolic Learning for Visual Reasoning</a></li>
+    <li><a href="#neuro-symbolic-learning-for-math-reasoning">Neuro-Symbolic Learning for Math Reasoning</a></li>
+    <li><a href="#neuro-symbolic-learning-for-reinforcement-learning">Neuro-Symbolic Learning for Reinforcement Learning</a></li>
+    <li><a href="#neuro-symbolic-learning-for-embodied-ai">Neuro-Symbolic Learning for Embodied AI</a></li>
+    <li><a href="#neuro-symbolic-learning-for-agent">Neuro-Symbolic Learning for Agent</a></li>
+    <li><a href="#neuro-symbolic-learning-for-aigc">Neuro-Symbolic Learning for AIGC</a></li>
     <li><a href="#misc">Misc</a></li>
   </ul>
-</ol>
 <li><a href="#awesome-datasets">Awesome Datasets</a></li>
+</ol>
 </details>
 
 ## Awesome Tutorials & Workshops & Talks
@@ -69,7 +66,7 @@
 |[**Logic Tensor Networks**](https://arxiv.org/abs/2012.13635) <br> | Artificial Intelligence | 2022 | [Github](https://github.com/logictensornetworks/logictensornetworks) |
 |[**Neuro-symbolic Learning Yielding Logical Constraints**](https://arxiv.org/abs/2410.20957) <br> | NeurIPS | 2023 | [Github](https://github.com/Lizn-zn/Nesy-Programming) |
 
-### LLM for Neural-Symbolic Learning
+### LLM for Neuro-Symbolic Learning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374) <br> | Arxiv | 2021 | [Github](https://github.com/openai/human-eval) |
@@ -82,7 +79,7 @@
 |[**A Foundation Model for Zero-shot Logical Query Reasoning**](https://openreview.net/pdf?id=JRSyMBBJi6) <br> | NeurIPS | 2024 | - |
 
 
-### Neural-Symbolic Learning for LLM Reasoning
+### Neuro-Symbolic Learning for LLM Reasoning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/pdf/2105.11259) <br> | Arxiv | 2021 |[Github](https://github.com/thunlp/PTR)|
@@ -112,7 +109,7 @@
 |[**Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts**](https://arxiv.org/abs/2409.13728) <br> | NeurIPS | 2024 | - |
 |[**KnowGPT: Knowledge Graph based PrompTing for Large Language Models**](https://openreview.net/pdf?id=PacBluO5m7) <br> | NeurIPS | 2024 | - |
 
-### Neural-Symbolic Learning for Planning
+### Neuro-Symbolic Learning for Planning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Learning Rational Subgoals from Demonstrations and Instructions**](https://arxiv.org/pdf/2303.05487) <br> | AAAI | 2023 |[Github](https://github.com/C-SUNSHINE/RSG-PyTorch-Release)|
@@ -121,15 +118,14 @@
 |[**Learning Planning Abstractions from Language**](https://arxiv.org/pdf/2405.03864) <br> | ICLR | 2024 |-|
 
 
-### Nesy for the Explainable & Trustworthy
+### Neuro-Symbolic Learning for the Explainable & Trustworthy
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation**](https://arxiv.org/abs/2203.05843) <br> | ACL| 2022 | [Github](https://github.com/shiquanyang/NS-Dial) |
 |[**Bridging the Gap: Providing Post-Hoc Symbolic Explanations for Sequential Decision-Making Problems with Inscrutable Representations**](https://openreview.net/forum?id=o-1v9hdSult)<br> | NeurIPS | 2022 |-|
 |[**Interpretable Neural-Symbolic Concept Reasoning**](https://proceedings.mlr.press/v202/barbiero23a/barbiero23a.pdf) <br> | ICML | 2023 |-|
 
-### Application
-#### Nesy for Visual Reasoning 
+### Neuro-Symbolic Learning for Visual Reasoning 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](https://arxiv.org/abs/1810.02338) <br> | NeurIPS | 2018 | [Github](https://github.com/kexinyi/ns-vqa) |
@@ -152,7 +148,7 @@
 |[**Integrating Neural-Symbolic Reasoning With Variational Causal Inference Network for Explanatory Visual Question Answering**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10522958) <br> | TPAMI | 2024 |-|
 
 
-#### Nesy for Math 
+### Neuro-Symbolic Learning for Math Reasoning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Solving Geometry Problems:Combining Text and Diagram Interpretation**](https://aclanthology.org/D15-1171.pdf)<br> | ACL | 2015 | - |
@@ -168,13 +164,7 @@
 |[**MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning**](https://arxiv.org/abs/2310.03731) <br> | ICLR | 2024 |[Github](https://github.com/mathllm/MathCoder)|
 |[**Autoformalizing Euclidean Geometry**](https://arxiv.org/pdf/2405.17216)<br> | ICML | 2024 | [Github](https://github.com/loganrjmurphy/LeanEuclid) |
 
-
-#### Nesy for Agent
-|  Title  |   Venue  |   Date   |   Code   |
-|:--------|:--------:|:--------:|:--------:|
-|[**Symbolic Learning Enables Self-Evolving Agents**](https://arxiv.org/pdf/2406.18532v1)<br> | Arxiv| 2024 | [Github](https://github.com/aiwaves-cn/agents) |
-
-#### Nesy for RL
+### Neuro-Symbolic Learning for Reinforcement Learning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Modular multitask reinforcement learning with policy sketches**](http://proceedings.mlr.press/v70/andreas17a.html)|ICML|2017|-|
@@ -204,7 +194,7 @@
 |[**Temporal Logic Specification-Conditioned Decision Transformer for Offline Safe Reinforcement Learning**](https://arxiv.org/abs/2402.17217)|Arxiv|2024|-|
 
 
-#### Nesy for Embodied AI
+### Neuro-Symbolic Learning for Embodied AI
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Neural Task Programming: Learning to Generalize Across Hierarchical Tasks**](https://ai.stanford.edu/~yukez/papers/icra2018.pdf)|ICRA|2018||
@@ -230,8 +220,12 @@
 |[**Fast and Accurate Task Planning using Neuro-Symbolic Language Models and Multi-level Goal Decomposition**](https://arxiv.org/abs/2409.19250) <br> | Arxiv | 2024 |-|
 |[**ClevrSkills: Compositional Language and Visual Reasoning in Robotics**](https://arxiv.org/pdf/2411.09052v1) <br> | NeurIPS Benchmark | 2024 |[Github](https://github.com/Qualcomm-AI-research/ClevrSkills)|
 
+### Neuro-Symbolic Learning for Agent
+|  Title  |   Venue  |   Date   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+|[**Symbolic Learning Enables Self-Evolving Agents**](https://arxiv.org/pdf/2406.18532v1)<br> | Arxiv| 2024 | [Github](https://github.com/aiwaves-cn/agents) |
 
-#### Nesy for AIGC 
+### Neuro-Symbolic Learning for AIGC 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Neuro-Symbolic Generative Art: A Preliminary Study**](https://arxiv.org/pdf/2007.02171) <br> | Arxiv | 2020 |-|
