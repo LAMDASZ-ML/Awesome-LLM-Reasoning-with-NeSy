@@ -40,6 +40,7 @@
 - [Neuro-Symbolic Methods for Language and Vision](https://sites.google.com/allenai.org/nsmlv-tutorial-aaai-22) AAAI 2022
 - [Neuro-Symbolic Approaches: Large Language Models + Tool Use](https://wenting-zhao.github.io/complex-reasoning-tutorial/slides/6.pdf) ACL 2023
 - [Neuro-Symbolic Visual Reasoning and Program Synthesis](http://nscv.csail.mit.edu/) CVPR 2020
+- [Neuro-Symbolic Generative Models](https://nesygems.github.io/) Workshop in ICLR 2023
 - [Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models](https://nuclear-workshop.github.io/aaai2024/) Workshop in AAAI 2024
 - [MIT 6.S191: Neuro-Symbolic AI](http://introtodeeplearning.com/2020/slides/6S191_MIT_DeepLearning_L7.pdf) Talk given by David Cox [[Video]](https://www.youtube.com/watch?v=4PuuziOgSU4)
 - [Neuro-Symbolic Concepts for Robotic Manipulation](https://jiayuanm.com/data/2023-07-09-rss-neuro-symbolic-concepts.pdf) Talk given by Jiayuan Mao  [[Video]](https://www.youtube.com/watch?v=S8KsCtbJqz0)
@@ -240,6 +241,8 @@
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Neuro-Symbolic Generative Art: A Preliminary Study**](https://arxiv.org/pdf/2007.02171) <br> | Arxiv | 2020 |-|
+|[**Generative Neurosymbolic Machines**](https://proceedings.neurips.cc/paper_files/paper/2020/file/94c28dcfc97557df0df6d1f7222fc384-Paper.pdf) <br> | NeurIPS | 2020 |-|
+|[**SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models**](https://arxiv.org/abs/2305.11281) <br> | NeurIPS | 2023 |[Github](https://github.com/Wuziyi616/SlotDiffusion)|
 
 ### Misc
 |  Title  |   Venue  |   Date   |   Code   |
