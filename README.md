@@ -166,6 +166,7 @@
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Solving Geometry Problems:Combining Text and Diagram Interpretation**](https://aclanthology.org/D15-1171.pdf)<br> | ACL | 2015 | - |
+|[**SMT-Solving Induction Proofs of Inequalities**](https://arxiv.org/abs/2307.16761)<br> | Arxiv | 2023 | - |
 |[**A Survey on Deep Learning for Theorem Proving**](https://arxiv.org/pdf/2404.09939)<br> | COLM | 2024 | - |
 |[**A Symbolic Framework for Evaluating Mathematical Reasoning and Generalization with Transformers**](https://arxiv.org/abs/2305.12563) <br> | ACL | 2024 | [Github](https://github.com/jmeadows17/transformers-for-calculus) |
 |[**AlphaIntegrator: Transformer Action Search for Symbolic Integration Proofs**](https://arxiv.org/abs/2410.02666)<br> | Arxiv| 2024 | - |
@@ -176,7 +177,10 @@
 |[**ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**](https://arxiv.org/abs/2309.17452) <br> | ICLR | 2024 |[Github](https://github.com/microsoft/ToRA)|
 |[**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**](https://arxiv.org/abs/2403.18120) <br> | ICLR | 2024 |[Github](https://github.com/jinpz/dtv)|
 |[**MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning**](https://arxiv.org/abs/2310.03731) <br> | ICLR | 2024 |[Github](https://github.com/mathllm/MathCoder)|
+|[**SubgoalXL: Subgoal-based Expert Learning for Theorem Proving**](https://arxiv.org/abs/2408.11172) <br> | Arxiv | 2024 |-|
 |[**Autoformalizing Euclidean Geometry**](https://arxiv.org/pdf/2405.17216)<br> | ICML | 2024 | [Github](https://github.com/loganrjmurphy/LeanEuclid) |
+|[**A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges**](https://arxiv.org/abs/2412.11936) <br> | Arxiv | 2024 |-|
+
 
 ### Neuro-Symbolic Learning for Reinforcement Learning
 |  Title  |   Venue  |   Date   |   Code   |
