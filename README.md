@@ -1,3 +1,10 @@
+<a name="readme-top"></a>
+<br>
+<p align="center">
+    <img src="images/framework.png" width="80%" style="align:center;"/>
+</p>
+
+
 <h1 align="center"> Awesome-Neuro-Symbolic-Learning-with-LLM</h1>
 
 <p align="center">
@@ -48,7 +55,7 @@
 - [A Review on Neuro-symbolic AI Improvements to Natural Language Processing](https://www.zemris.fer.hr/~ajovic/articles/Keber_et_al_MIPRO_2024_IEEE_copyright.pdf)
 - [Survey on Applications of Neurosymbolic Artificial Intelligence](https://arxiv.org/abs/2209.12618)
 - [Neurosymbolic Programming](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) [[Slides]](https://nips.cc/media/neurips-2022/Slides/55804.pdf)
-  
+
 ## Awesome Papers
 ### Basic Neuro-Symbolic Frameworks
 |  Title  |   Venue  |   Date   |   Code   |
@@ -273,3 +280,9 @@
 - [VirtualHome](http://virtual-home.org/) for Embodied Tasks
 - [Planbench](https://arxiv.org/pdf/2206.10498) for evaluating LLM Planning
 - [RSbench](https://unitn-sml.github.io/rsbench/) A Neuro-Symbolic Benchmark Suite for Concept Quality and Reasoning Shortcuts
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
