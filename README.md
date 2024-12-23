@@ -123,11 +123,14 @@
 ### Neuro-Symbolic Learning for Planning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**PDDL Planning with Pretrained Large Language Models**](https://openreview.net/forum?id=1QMMUB4zfl) <br> | NeurIPS Workshop | 2022 |[Github](https://github.com/Learning-and-Intelligent-Systems/llm4pddl)|
+|[**Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning**](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9f54762cbb4fe4dbffdd4f792c31221-Paper-Conference.pdf) <br> | NeurIPS | 2023 |[Github](https://guansuns.github.io/pages/llm-dm/)|
+|[**LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**](https://arxiv.org/abs/2304.11477) <br> | Arxiv | 2023 |[Github](https://github.com/Cranial-XIX/llm-pddl)|
 |[**Learning Rational Subgoals from Demonstrations and Instructions**](https://arxiv.org/pdf/2303.05487) <br> | AAAI | 2023 |[Github](https://github.com/C-SUNSHINE/RSG-PyTorch-Release)|
 |[**Neuro-Symbolic Procedural Planning with Commonsense Prompting**](https://arxiv.org/pdf/2206.02928) <br> | ICLR | 2023 |[Github](https://github.com/YujieLu10/CLAP)|
 |[**Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos**](https://openaccess.thecvf.com/content/CVPR2024/papers/Nagasinghe_Why_Not_Use_Your_Textbook_Knowledge-Enhanced_Procedure_Planning_of_Instructional_CVPR_2024_paper.pdf) <br> | CVPR | 2024 |[Github](https://github.com/Ravindu-Yasas-Nagasinghe/KEPP)|
 |[**Learning Planning Abstractions from Language**](https://arxiv.org/pdf/2405.03864) <br> | ICLR | 2024 |-|
-
+|[**Generalized Planning in PDDL Domains with Pretrained Large Language Models**](https://arxiv.org/abs/2305.11014) <br> | AAAI | 2024 |-|
 
 ### Neuro-Symbolic Learning for the Explainable & Trustworthy
 |  Title  |   Venue  |   Date   |   Code   |
@@ -213,6 +216,8 @@
 |[**Learning symbolic operators for task and motion planning**](https://arxiv.org/abs/2103.00589)|IROS|2021||
 |[**PDSketch: Integrated Domain Programming, Learning, and Planning**](https://pdsketch.csail.mit.edu/data/papers/2022NeurIPS-PDSketch.pdf) <br> | NeurIPS| 2022 | [Github](https://github.com/vacancy/PDSketch-Alpha-Release) |
 |[**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**](https://arxiv.org/pdf/2208.13266)<br> | Arxiv| 2022 | - |
+|[**Mind's Eye: Grounded Language Model Reasoning through Simulation**](https://arxiv.org/abs/2210.05359)|Arxiv|2022|[Github](https://arxiv.org/pdf/2210.05359)|
+|[**Do As I Can, Not As I Say: Grounding Language in Robotic Affordances**](https://arxiv.org/abs/2204.01691)|Arxiv|2023|[Github](https://say-can.github.io/)|
 |[**Learning Neuro-Symbolic Skills for Bilevel Planning**](https://arxiv.org/abs/2206.10680)<br> | COIL | 2022 | [Github](https://github.com/Learning-and-Intelligent-Systems/predicators/releases/tag/skill-learning-june-2022) |
 |[**ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**](https://arxiv.org/abs/2209.11302) <br> | ICRA | 2023 |[Github](https://github.com/NVlabs/progprompt-vh)|
 |[**Learning Neuro-symbolic Programs for Language Guided Robot Manipulation**](https://arxiv.org/abs/2211.06652)|ICRA|2023||
@@ -221,6 +226,7 @@
 |[**Knowledge-based Embodied Question Answering**](https://arxiv.org/pdf/2109.07872) <br> | TPAMI | 2023 |-|
 |[**Learning Adaptive Planning Representations with Natural Language Guidance**](https://arxiv.org/pdf/2312.08566) <br> | ICLR | 2024 |-|
 |[**Learning Reusable Manipulation Strategies**](https://arxiv.org/pdf/2311.03293) <br> | CORL | 2023 |-|
+|[**Code as Policies: Language Model Programs for Embodied Control**](https://arxiv.org/abs/2209.07753) <br> | Arxiv | 2023 |[Github](https://github.com/google-research/google-research/tree/master/code_as_policies)|
 |[**Compositional Diffusion-Based Continuous Constraint Solvers**](https://arxiv.org/abs/2309.00966) <br> | CORL | 2023 |[Github](https://github.com/zt-yang/diffusion-ccsp)|
 |[**Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation**](https://arxiv.org/pdf/2309.00987.pdf)  | CORL | 2023 ||
 |[**RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools**](https://arxiv.org/abs/2306.14447)|CORL|2023||
@@ -236,7 +242,11 @@
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**WebGPT: Browser-assisted question-answering with human feedback**](https://arxiv.org/abs/2112.09332)<br> | Arxiv| 2022 |-|
+|[**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**](https://arxiv.org/abs/2303.17580)<br> | Arxiv| 2023 |-|
+|[**ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings**](https://arxiv.org/abs/2305.11554)<br> | NeurIPS | 2023 |[Github](https://github.com/Ber666/ToolkenGPT)|
+|[**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**](https://arxiv.org/abs/2303.16434)<br> | Arxiv| 2023 |-|
 |[**Symbolic Learning Enables Self-Evolving Agents**](https://arxiv.org/pdf/2406.18532v1)<br> | Arxiv| 2024 | [Github](https://github.com/aiwaves-cn/agents) |
+
 
 ### Neuro-Symbolic Learning for AIGC 
 |  Title  |   Venue  |   Date   |   Code   |
