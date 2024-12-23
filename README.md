@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-<br>
 <p align="center">
     <img src="images/framework.png" width="80%" style="align:center;"/>
 </p>
