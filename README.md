@@ -149,6 +149,7 @@
 |[**Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”**](https://arxiv.org/abs/2006.11524) <br> | ICML | 2020 | [Github](https://github.com/microsoft/DFOL-VQA) |
 |[**FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations**](https://arxiv.org/pdf/2203.16639)<br> | ICLR | 2022 | - |
 |[**A Neuro-Symbolic ASP Pipeline for Visual Question Answering**](https://arxiv.org/abs/2205.07548)<br> | ICLP | 2022 | - |
+|[**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**](https://arxiv.org/pdf/2304.09842)<br> | NeurIPS | 2023 |[Github](https://github.com/lupantech/chameleon-llm)|
 |[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://jiajunwu.com/papers/left_nips.pdf)<br> | NeurIPS | 2023 | [Github](https://github.com/joyhsu0504/LEFT) |
 |[**Visual Programming: Compositional visual reasoning without training**](https://arxiv.org/abs/2211.11559)<br> | CVPR (Best Paper) | 2023 | [Github](https://github.com/allenai/visprog) |
 |[**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**](https://arxiv.org/abs/2303.13483)<br> | CVPR | 2023 | [Github](https://github.com/joyhsu0504/NS3D) |
@@ -157,7 +158,6 @@
 |[**GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules**](https://openreview.net/forum?id=MNShbDSxKH) <br> | ICLR | 2024 |-|
 |[**Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification**](https://arxiv.org/abs/2410.04492) <br> | NeurIPS | 2024 |-|
 |[**Integrating Neural-Symbolic Reasoning With Variational Causal Inference Network for Explanatory Visual Question Answering**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10522958) <br> | TPAMI | 2024 |-|
-
 
 ### Neuro-Symbolic Learning for Math Reasoning
 |  Title  |   Venue  |   Date   |   Code   |
@@ -235,6 +235,7 @@
 ### Neuro-Symbolic Learning for Agent
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**WebGPT: Browser-assisted question-answering with human feedback**](https://arxiv.org/abs/2112.09332)<br> | Arxiv| 2022 |-|
 |[**Symbolic Learning Enables Self-Evolving Agents**](https://arxiv.org/pdf/2406.18532v1)<br> | Arxiv| 2024 | [Github](https://github.com/aiwaves-cn/agents) |
 
 ### Neuro-Symbolic Learning for AIGC 
