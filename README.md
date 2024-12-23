@@ -243,6 +243,7 @@
 |[**Neuro-Symbolic Generative Art: A Preliminary Study**](https://arxiv.org/pdf/2007.02171) <br> | Arxiv | 2020 |-|
 |[**Generative Neurosymbolic Machines**](https://proceedings.neurips.cc/paper_files/paper/2020/file/94c28dcfc97557df0df6d1f7222fc384-Paper.pdf) <br> | NeurIPS | 2020 |-|
 |[**SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models**](https://arxiv.org/abs/2305.11281) <br> | NeurIPS | 2023 |[Github](https://github.com/Wuziyi616/SlotDiffusion)|
+|[**Neuro-symbolic Empowered Denoising Diffusion Probabilistic Models for Real-time Anomaly Detection in Industry 4.0**](https://arxiv.org/abs/2307.06975) <br> | Arxiv | 2024 |-|
 
 ### Misc
 |  Title  |   Venue  |   Date   |   Code   |
