@@ -94,6 +94,7 @@
 |:--------|:--------:|:--------:|:--------:|
 |[**PTR: Prompt Tuning with Rules for Text Classification**](https://arxiv.org/pdf/2105.11259) <br> | Arxiv | 2021 |[Github](https://github.com/thunlp/PTR)|
 |[**A Generative-Symbolic Model for Logical Reasoning in NLU**](https://openreview.net/pdf?id=LucARkxeWoE) <br> | IJCAI Workshop | 2021 | - |
+|[**NeuroLogic Decoding: (Un)supervised Neural Text Generation with Predicate Logic Constraints**](https://arxiv.org/abs/2010.12884) <br> | ACL | 2021 | - |
 |[**NeuroLogic A* Decoding: Constrained Text Generation with Lookahead Heuristics**](https://arxiv.org/abs/2112.08726) <br> | ACL | 2022 | - |
 |[**Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text**](https://aclanthology.org/2022.findings-acl.127/) <br> | ACL| 2022 | [Github](https://github.com/SiyuanWangw/LReasoner) |
 |[**PAL: Program-aided Language Models**](https://arxiv.org/abs/2211.10435) <br> | ICML | 2023 | [Github](https://reasonwithpal.com/) |
