@@ -169,6 +169,7 @@
 |[**GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules**](https://openreview.net/forum?id=MNShbDSxKH) <br> | ICLR | 2024 |-|
 |[**Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification**](https://arxiv.org/abs/2410.04492) <br> | NeurIPS | 2024 |-|
 |[**Integrating Neural-Symbolic Reasoning With Variational Causal Inference Network for Explanatory Visual Question Answering**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10522958) <br> | TPAMI | 2024 |-|
+|[**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**](https://arxiv.org/abs/2402.19467) <br> | EMNLP | 2024 |-|
 
 ### Neuro-Symbolic Learning for Math Reasoning
 |  Title  |   Venue  |   Date   |   Code   |
