@@ -103,6 +103,7 @@
 |[**LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers**](https://aclanthology.org/2023.emnlp-main.313.pdf) <br> | EMNLP | 2023 |[Github](https://github.com/benlipkin/linc)|
 |[**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**](https://arxiv.org/abs/2211.12588) <br> | TMLR | 2023 | [Github](https://github.com/TIGER-AI-Lab/Program-of-Thoughts) |
 |[**Leveraging Large Language Models to Generate Answer Set Programs**](https://arxiv.org/pdf/2307.07699) <br> | KR | 2023 |-|
+|[**Reasoning with Language Model is Planning with World Model**](https://aclanthology.org/2023.emnlp-main.507/) <br> | ACL | 2023 |-|
 |[**Faithful Logical Reasoning via Symbolic Chain-of-Thought**](https://arxiv.org/abs/2405.18357) <br> | ACL | 2023 |[Github](https://github.com/Aiden0526/SymbCoT)|
 |[**Binding Language Models in Symbolic Languages**](https://openreview.net/forum?id=lH1PV42cbF) <br> | ICLR | 2023 |[Github](https://lm-code-binder.github.io/)|
 |[**SATLM: Satisfiability-Aided Language Models Using Declarative Prompting**](https://arxiv.org/pdf/2305.09656) <br> | NeurIPS | 2023 |[Github](https://github.com/xiye17/SAT-LM)|
@@ -133,6 +134,7 @@
 |[**Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning**](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9f54762cbb4fe4dbffdd4f792c31221-Paper-Conference.pdf) <br> | NeurIPS | 2023 |[Github](https://guansuns.github.io/pages/llm-dm/)|
 |[**LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**](https://arxiv.org/abs/2304.11477) <br> | Arxiv | 2023 |[Github](https://github.com/Cranial-XIX/llm-pddl)|
 |[**Learning Rational Subgoals from Demonstrations and Instructions**](https://arxiv.org/pdf/2303.05487) <br> | AAAI | 2023 |[Github](https://github.com/C-SUNSHINE/RSG-PyTorch-Release)|
+|[**Planning with Large Language Models for Code Generation**](https://arxiv.org/abs/2303.05510) <br> | ICLR | 2023 | [Github](https://codeaimcts.github.io/) |
 |[**Neuro-Symbolic Procedural Planning with Commonsense Prompting**](https://arxiv.org/pdf/2206.02928) <br> | ICLR | 2023 |[Github](https://github.com/YujieLu10/CLAP)|
 |[**Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos**](https://openaccess.thecvf.com/content/CVPR2024/papers/Nagasinghe_Why_Not_Use_Your_Textbook_Knowledge-Enhanced_Procedure_Planning_of_Instructional_CVPR_2024_paper.pdf) <br> | CVPR | 2024 |[Github](https://github.com/Ravindu-Yasas-Nagasinghe/KEPP)|
 |[**Learning Planning Abstractions from Language**](https://arxiv.org/pdf/2405.03864) <br> | ICLR | 2024 |-|
