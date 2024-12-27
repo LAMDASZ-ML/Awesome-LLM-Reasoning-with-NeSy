@@ -204,6 +204,7 @@
 |[**Imitationprojected programmatic reinforcement learning**](https://arxiv.org/abs/1907.05431)|NeurIPS|2019|-|
 |[**Language as an Abstraction for Hierarchical Deep Reinforcement Learning**](https://arxiv.org/abs/1906.07343)|NeurIPS|2019|-|
 |[**Regression Planning Networks**](https://faculty.cc.gatech.edu/~danfei/rpn_neurips19_final.pdf)|NeurIPS|2019|-|
+|[**PLANS: Neuro-Symbolic Program Learning from Videos**](https://proceedings.neurips.cc/paper/2020/file/fe131d7f5a6b38b23cc967316c13dae2-Paper.pdf)|NeurIPS|2020|
 |[**Synthesizing Programmatic Policies that Inductively Generalize**](https://openreview.net/forum?id=S1l8oANFDH)|ICLR|2020|
 |[**Neurosymbolic Reinforcement Learning with Formally Verified Exploration**](https://proceedings.neurips.cc/paper_files/paper/2020/file/448d5eda79895153938a8431919f4c9f-Paper.pdf)<br> | NeurIPS| 2020 | - |
 |[**Deepsynth: Program synthesis for automatic task segmentation in deep reinforcement learning**](https://arxiv.org/abs/1911.10244)|AAAI|2021|-|
