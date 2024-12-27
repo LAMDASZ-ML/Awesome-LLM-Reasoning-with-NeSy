@@ -55,6 +55,7 @@
 - [A Review on Neuro-symbolic AI Improvements to Natural Language Processing](https://www.zemris.fer.hr/~ajovic/articles/Keber_et_al_MIPRO_2024_IEEE_copyright.pdf)
 - [Survey on Applications of Neurosymbolic Artificial Intelligence](https://arxiv.org/abs/2209.12618)
 - [Neurosymbolic Programming](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) [[Slides]](https://nips.cc/media/neurips-2022/Slides/55804.pdf)
+- [Overview of Neuro-Symbolic Integration Frameworks](https://link.springer.com/chapter/10.1007/978-981-97-8171-3_10)
 
 ## Awesome Papers
 ### Basic Neuro-Symbolic Frameworks
