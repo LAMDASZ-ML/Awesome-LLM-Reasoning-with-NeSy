@@ -65,6 +65,7 @@
 |[**Semantic-based regularization for learning and inference**](https://arxiv.org/abs/1904.11694) <br> | Artificial Intelligence | 2017 | - |
 |[**DeepProbLog: Neural Probabilistic Logic Programming**](https://arxiv.org/abs/1805.10872) <br> | NeurIPS | 2018 | [Github](https://github.com/ML-KULeuven/deepproblog) |
 |[**Learning Explanatory Rules from Noisy Data**](https://arxiv.org/abs/1711.04574) <br> | Journal of Artificial Intelligence Research | 2018 | [Github](https://github.com/ai-systems/DILP-Core) |
+|[**Augmenting Neural Networks with First-order Logic**](https://arxiv.org/pdf/1906.06298) <br> | ACL | 2019 | - |
 |[**Neural Logic Machines**](https://arxiv.org/abs/1904.11694) <br> | ICLR | 2019 | [Github](https://github.com/google/neural-logic-machines) |
 |[**Bridging Machine Learning and Logical Reasoning by Abductive Learning**](https://proceedings.neurips.cc/paper_files/paper/2019/file/9c19a2aa1d84e04b0bd4bc888792bd1e-Paper.pdf) <br> | NeurIPS | 2019 | [Github](https://github.com/IBM/LNN) |
 |[**SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver**](https://arxiv.org/pdf/1905.12149) <br> | ICML | 2019 | [Github](https://github.com/locuslab/satnet) |
