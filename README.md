@@ -14,7 +14,7 @@
 <summary>🗂️ <font size="4"><b>Table of Contents</b></font></summary>
 <ol>
 <li><a href="#awesome-tutorials--workshops--talks">Awesome Tutorials & Workshops & Talks</a></li>
-<li><a href="#awesome-survey">Awesome Survey</a></li>
+<li><a href="#awesome-survey--books">Awesome Survey</a></li>
 <li><a href="#awesome-papers">Awesome Papers</a></li>
   <ul>
     <li><a href="#basic-neuro-symbolic-frameworks">Basic Neuro-Symbolic Frameworks</a></li>
@@ -46,7 +46,9 @@
 - [Neuro-Symbolic Concepts for Robotic Manipulation](https://jiayuanm.com/data/2023-07-09-rss-neuro-symbolic-concepts.pdf) Talk given by Jiayuan Mao  [[Video]](https://www.youtube.com/watch?v=S8KsCtbJqz0)
 - [Building General-Purpose Robots with Compositional Action Abstractions](https://jiayuanm.com/data/2024-04-19-brown-compositional-action-abstractions.pdf) Talk given by Jiayuan Mao  
 
-## Awesome Survey
+## Awesome Survey & Books
+- [A Survey on Neural-symbolic Learning Systems](https://arxiv.org/abs/2111.08164)
+- [Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI](https://arxiv.org/abs/2401.01040)
 - [Neuro-Symbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876)
 - [Neuro-Symbolic AI and its Taxonomy: A Survey](https://arxiv.org/pdf/2305.08876)
 - [The third AI summer: AAAI Robert S. Engelmore Memorial Lecture](https://henrykautz.com/papers/AI%20Magazine%20-%202022%20-%20Kautz%20-%20The%20third%20AI%20summer%20%20AAAI%20Robert%20S%20%20Engelmore%20Memorial%20Lecture.pdf)
@@ -57,6 +59,7 @@
 - [Survey on Applications of Neurosymbolic Artificial Intelligence](https://arxiv.org/abs/2209.12618)
 - [Neurosymbolic Programming](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) [[Slides]](https://nips.cc/media/neurips-2022/Slides/55804.pdf)
 - [Overview of Neuro-Symbolic Integration Frameworks](https://link.springer.com/chapter/10.1007/978-981-97-8171-3_10)
+- [Survey on applications of neurosymbolic artificial intelligence](https://arxiv.org/abs/2209.12618)
 
 ## Awesome Papers
 ### Basic Neuro-Symbolic Frameworks
