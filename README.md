@@ -46,6 +46,8 @@
 - [Building General-Purpose Robots with Compositional Action Abstractions](https://jiayuanm.com/data/2024-04-19-brown-compositional-action-abstractions.pdf) Talk given by Jiayuan Mao  
 
 ## Awesome Survey & Books
+- [Logical Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2502.09100)
+- [Reasoning Language Models: A Blueprint](https://arxiv.org/abs/2501.11223)
 - [A Survey on Neural-symbolic Learning Systems](https://arxiv.org/abs/2111.08164)
 - [Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI](https://arxiv.org/abs/2401.01040)
 - [Neuro-Symbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876)
@@ -147,6 +149,7 @@
 |[**Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos**](https://openaccess.thecvf.com/content/CVPR2024/papers/Nagasinghe_Why_Not_Use_Your_Textbook_Knowledge-Enhanced_Procedure_Planning_of_Instructional_CVPR_2024_paper.pdf) <br> | CVPR | 2024 |[Github](https://github.com/Ravindu-Yasas-Nagasinghe/KEPP)|
 |[**Learning Planning Abstractions from Language**](https://arxiv.org/pdf/2405.03864) <br> | ICLR | 2024 |-|
 |[**Generalized Planning in PDDL Domains with Pretrained Large Language Models**](https://arxiv.org/abs/2305.11014) <br> | AAAI | 2024 |-|
+|[**Generating Symbolic World Models via Test-time Scaling of Large Language Models**](https://arxiv.org/abs/2502.04728) <br> | Arxiv | 2025 |-|
 
 ### Neuro-Symbolic Learning for the Explainable & Trustworthy
 |  Title  |   Venue  |   Date   |   Code   |
@@ -262,6 +265,7 @@
 |[**VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning**](https://arxiv.org/abs/2410.23156) <br> | Arxiv | 2024 |-|
 |[**A Framework for Neurosymbolic Robot Action Planning using Large Language Models**](https://arxiv.org/abs/2303.00438) <br> | Frontiers in Neurorobotics | 2024 |-|
 |[**Fast and Accurate Task Planning using Neuro-Symbolic Language Models and Multi-level Goal Decomposition**](https://arxiv.org/abs/2409.19250) <br> | Arxiv | 2024 |-|
+|[**ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation**](https://arxiv.org/abs/2409.01652) <br> | Arxiv | 2024 |-|
 |[**ClevrSkills: Compositional Language and Visual Reasoning in Robotics**](https://arxiv.org/pdf/2411.09052v1) <br> | NeurIPS Benchmark | 2024 |[Github](https://github.com/Qualcomm-AI-research/ClevrSkills)|
 
 ### Neuro-Symbolic Learning for Agent
