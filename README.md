@@ -284,7 +284,6 @@
 |[**DiLA: Enhancing LLM Tool Learning with Differential Logic Layer**](https://arxiv.org/pdf/2402.11903) <br> | Arxiv | 2024 |Reasoning|-|
 |[**Mastering Symbolic Operations: Augmenting Language Models with Compiled Neural Networks**](https://arxiv.org/abs/2304.01665)<br> | ICLR | 2024 |Reasoning| [Github](https://github.com/wengsyx/Neural-Comprehension) |
 |[**Empowering Language Models with Knowledge Graph Reasoning for Question Answering**](https://arxiv.org/pdf/2211.08380)<br> | EMNLP | 2022 |Reasoning|-|
-Premise Order Matters in Reasoning with Large Language Models
 |[**Neuro-symbolic Training for Spatial Reasoning over Natural Language**](https://arxiv.org/pdf/2406.13828) <br> | Arxiv | 2025 |Spatial Reasoning|[Github](https://github.com/HLR/SpaRTUNQChain)|
 |[**NeSyCoCo: A Neuro-Symbolic Concept Composer for Compositional Generalization**](https://arxiv.org/abs/2412.15588) <br> | Arxiv | 2024 |Visual Reasoning|[Github](https://github.com/HLR/NeSyCoCo)|
 
