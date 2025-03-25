@@ -148,6 +148,8 @@
 |[**Neuro-Symbolic Data Generation for Math Reasoning**](https://arxiv.org/pdf/2412.04857) <br> | NeurIPS | 2024 |Math Reasoning|-|
 |[**LawGPT: Knowledge-Guided Data Generation and Its Application to Legal LLM**](https://arxiv.org/pdf/2502.065727) <br> | SCI-FM Workshop @ ICLR | 2025 |Legal Reasoning|[Github](https://github.com/LAMDASZ-ML/Knowledge-Guide-Data-Generation)|
 |[**AlphaIntegrator: Transformer Action Search for Symbolic Integration Proofs**](https://arxiv.org/abs/2410.02666)<br> | Arxiv| 2024 |Theorem Proving| - |
+|[**Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation**](https://openreview.net/pdf?id=C25SgeXWjE)<br> | ICLR | 2025 |Logic Reasoning| [Github](https://github.com/opendatalab/ProverGen)|
+
 
 
 ## 📖 LLM to Symbolic
@@ -185,13 +187,16 @@
 |[**A Framework for Neurosymbolic Robot Action Planning using Large Language Models**](https://arxiv.org/abs/2303.00438) <br> | Frontiers in Neurorobotics | 2024 |Robotics|[Github](https://github.com/alessiocpt/teriyaki)|
 |[**ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation**](https://arxiv.org/abs/2409.01652) <br> | Arxiv | 2024 |Robotics|-|
 |[**LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**](https://arxiv.org/abs/2306.15626)<br> | NeurIPS D&B | 2023 |Theorem Proving| [Github](https://leandojo.org/) |
-|[**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**](https://arxiv.org/abs/2403.18120) <br> | ICLR | 2024 |Theorem Proving|[Github](https://github.com/jinpz/dtv)|
 |[**LEGO-Prover: Neural Theorem Proving with Growing Libraries**](https://arxiv.org/abs/2310.00656)<br> | ICLR | 2024 |Theorem Proving| [Github](https://github.com/wiio12/LEGO-Prover) |
 |[**Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning**](https://arxiv.org/abs/2502.13834) <br> | ICLR | 2025 |Theorem Proving|[Github](https://github.com/Lizn-zn/NeqLIPS/)|
 |[**Autoformalization with Large Language Models**](https://arxiv.org/abs/2205.12615) <br> | NeurIPS | 2022 |Theorem Proving| - |
 |[**Autoformalizing Euclidean Geometry**](https://arxiv.org/pdf/2405.17216)<br> | ICML | 2024 | Geometry Reasoning|[Github](https://github.com/loganrjmurphy/LeanEuclid) |
 |[**Autoformalize Mathematical Statements by Symbolic Equivalence and Semantic Consistency**](https://arxiv.org/abs/2410.20936) <br> | NeurIPS | 2024 |Theorem Proving|[Github](https://github.com/Miracle-Messi/Isa-AutoFormal)|
+|[**Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs**](https://arxiv.org/abs/2210.12283) <br> | ICLR | 2023 |Theorem Proving|[Github](https://github.com/albertqjiang/draft_sketch_prove)|
+|[**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**](https://arxiv.org/abs/2403.18120) <br> | ICLR | 2024 |Theorem Proving|[Github](https://github.com/jinpz/dtv)|
+|[**Large Language Models as Planning Domain Generators**](https://arxiv.org/abs/2405.06650) <br> | ICAPS | 2024 |Planning|[Github](https://github.com/IBM/NL2PDDL)|
 |[**Generating Symbolic World Models via Test-time Scaling of Large Language Models**](https://arxiv.org/abs/2502.04728) <br> | ICML | 2024 |Planning|-|
+
 
 
 ### Program-Aided Methods
@@ -294,7 +299,7 @@
 |[**CoTran: An LLM-based Code Translator using Reinforcement Learning with Feedback from Compiler and Symbolic Execution**](https://arxiv.org/pdf/2306.06755) <br> | ECAI | 2024 |Code Generation|-|
 |[**Position: LLMs Can’t Plan, But Can Help Planning in LLM-Modulo Frameworks**](https://arxiv.org/pdf/2402.01817) <br> | ICML | 2024 |Planning|-|
 |[**RLSF: Reinforcement Learning via Symbolic Feedback**](https://arxiv.org/abs/2405.16661) <br> | Arxiv | 2025 |Reasoning|[Github](https://github.com/HLR/NeSyCoCo)|
-
+|[**Rule Based Rewards for Language Model Safety**](https://openreview.net/pdf?id=QVtwpT5Dmg) <br> | NeurIPS | 2024 | - |
 
 
 ## Misc on Neuro-Symbolic Learning
@@ -321,8 +326,9 @@
 |[**Bridging Neural and Symbolic Representations with Transitional Dictionary Learning**](https://openreview.net/forum?id=uqxBTcWRnj) <br> | ICLR | 2024 |-|
 |[**LogicMP: A Neuro-symbolic Approach for Encoding First-order Logic Constraints**](https://openreview.net/forum?id=BLGQ3oqldb) <br> | ICLR | 2024 |-|
 |[**Adaptable Logical Control for Large Language Models**](https://arxiv.org/abs/2406.13892) <br> | NeurIPS | 2024 | - |
-|[**Rule Based Rewards for Language Model Safety**](https://openreview.net/pdf?id=QVtwpT5Dmg) <br> | NeurIPS | 2024 | - |
 |[**Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts**](https://arxiv.org/abs/2409.13728) <br> | NeurIPS | 2024 | - |
+|[**Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought**](https://arxiv.org/pdf/2410.05695) <br> | NeurIPS | 2024 | [Github](https://github.com/LightChen233/reasoning-boundary)|
+
 
 
 ## 🛠️ Awesome Datasets & Benchmarks
