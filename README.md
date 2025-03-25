@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <p align="center">
-    <img src="images/framework.png" width="80%" style="align:center;"/>
+    <img src="images/nesy.png" width="80%" style="align:center;"/>
 </p>
 
 
@@ -11,12 +11,12 @@
     ✨✨<b> Curated collection of papers and resources on latest advances on improving reasoning and planning abilities of LLM/MLLMs with neuro-symbolic learning</b>
 </p>
 
-<details>
+<details open>
 <summary>🗂️ <font size="4"><b>Table of Contents</b></font></summary>
 <ol>
 <li><a href="#-awesome-tutorials--workshops--talks">Awesome Tutorials & Workshops & Talks</a></li>
 <li><a href="#-awesome-survey--books">Awesome Survey</a></li>
-<li><a href="#-awesome-papers-for-basic-neuro-symbolic-frameworks">Awesome Papers for Basic Neuro-Symbolic Frameworks</a></li>
+<li><a href="#-basic-neuro-symbolic-frameworks"> Basic Neuro-Symbolic Frameworks</a></li>
 <li><a href="#-symbolic-to-llm">Symbolic to LLM</a></li>
   <ul>
     <li><a href="#symbolic-generation-llm-imitation">Symbolic Generation, LLM Imitation</a></li>
@@ -27,11 +27,11 @@
     <li><a href="#symbolic-solver-aided-methods">Symbolic Solver Aided Methods</a></li>
     <li><a href="#program-aided-methods">Program Aided Methods</a></li>
     <li><a href="#tool-aided-methods">Tool Aided Methods</a></li>
+    <li><a href="#search-augmented-methods">Search Augmented Methods</a></li>
   </ul>
 <li><a href="#-llm-plus-symbolic">LLM plus Symbolic</a></li>
   <ul>
     <li><a href="#symbolic-formatted-reasoning">Symbolic Formatted Reasoning</a></li>
-    <li><a href="#search-augmented-methods">Search Augmented Methods</a></li>
     <li><a href="#differential-symbolic-module">Differential Symbolic Module</a></li>
     <li><a href="#symbolic-feedback">Symbolic Feedback</a></li>
   </ul>
@@ -96,7 +96,7 @@
 - [Survey on Applications of NeuroSymbolic Artificial Intelligence](https://arxiv.org/abs/2209.12618)
 - [Overview of Neuro-Symbolic Integration Frameworks](https://link.springer.com/chapter/10.1007/978-981-97-8171-3_10)
 
-## 📖 Awesome-Papers for Basic Neuro-Symbolic Frameworks
+## 📖 Basic Neuro-Symbolic Frameworks
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Semantic-based regularization for learning and inference**](https://arxiv.org/abs/1904.11694) <br> | Artificial Intelligence | 2017 | - |
@@ -230,23 +230,6 @@
 |[**ToolPlanner: A Tool Augmented LLM for Multi Granularity Instructions with Path Planning and Feedback**](https://arxiv.org/pdf/2409.14826)<br> |EMNLP| 2024 |Reasoning|[Github](https://github.com/XiaoMi/toolplanner)|
 |[**START: Self-taught Reasoner with Tools**](https://arxiv.org/pdf/2503.04625)<br> |Arxiv| 2025 |Reasoning|-|
 
-## 📖 LLM plus Symbolic
-### Symbolic Formatted Reasoning
-|  Title  |   Venue  |   Date   |   Domain |   Code   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-|[**Deductive Verification of Chain-of-Thought Reasoning**](https://arxiv.org/pdf/2306.03872)|NeurIPS| 2023 |Reasoning|[Github](https://github.com/lz1oceani/verify_cot)|
-|[**Show Your Work: Scratchpads for Intermediate Computation with Language Models**](https://arxiv.org/abs/2112.00114) <br> | DL4C Workshop @ ICLR | 2022 |Code Generation|-|
-|[**Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**](https://arxiv.org/abs/2305.10276)|COLM| 2024 |Spatial Reasoning/Path Planning|[Github](https://github.com/hanxuhu/chain-of-symbol-planning)|
-|[**Learning to Reason via Program Generation, Emulation, and Search**](https://arxiv.org/abs/2405.16337)|NeurIPS| 2024 |Reasoning|[Github](https://github.com/nweir127/CoGEX)|
-|[**Symbolic Working Memory Enhances Language Models for Complex Rule Application**](https://arxiv.org/pdf/2408.13654)|EMNLP| 2024 |Reasoning|[Github](https://github.com/SiyuanWangw/RuleApplication)|
-|[**CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction**](https://arxiv.org/abs/2502.07316)|Arxiv| 2025 |Reasoning|[Github](https://github.com/hkust-nlp/CodeIO)|
-|[**SKIntern: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models**](https://arxiv.org/pdf/2409.13183)|COLING| 2025 |Reasoning|[Github](https://github.com/Xnhyacinth/SKIntern)|
-|[**Improving Chain-of-Thought Reasoning via Quasi-Symbolic Abstractions**](https://arxiv.org/abs/2502.12616)|Arxiv| 2025 |Reasoning|-|
-|[**ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**](https://arxiv.org/abs/2209.11302) <br> | ICRA | 2023 |Robotics|[Github](https://github.com/NVlabs/progprompt-vh)|
-|[**Programmatically Grounded, Compositionally Generalizable Robotic Manipulation**](https://arxiv.org/pdf/2304.13826) <br> | ICLR | 2023 |Robotics|[Github](https://progport.github.io/)|
-|[**CodePlan: Unlocking Reasoning Potential in Large Language Models by Scaling Code-form Planning**](https://openreview.net/forum?id=dCPF1wlqj8) <br> | ICLR | 2025 |Reasoning|[Github](https://github.com/thu-coai/CodePlan)|
-
-
 ### Search Augmented Methods
 |  Title  |   Venue  |   Date   |   Domain |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -278,6 +261,22 @@
 |[**STP: Self-play LLM Theorem Provers with Iterative Conjecturing and Proving**](https://arxiv.org/pdf/2502.00212)|Arxiv| 2025 |Theorem Proving|[Github](https://github.com/kfdong/STP)|
 |[**SRA-MCTS: Self-driven Reasoning Augmentation with Monte Carlo Tree Search for Code Generation**](https://arxiv.org/pdf/2411.11053)|Arxiv| 2024 |Reasoning|[Github](https://github.com/DIRECT-BIT/SRA-MCTS)|
 
+## 📖 LLM plus Symbolic
+### Symbolic Formatted Reasoning
+|  Title  |   Venue  |   Date   |   Domain |   Code   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|[**Deductive Verification of Chain-of-Thought Reasoning**](https://arxiv.org/pdf/2306.03872)|NeurIPS| 2023 |Reasoning|[Github](https://github.com/lz1oceani/verify_cot)|
+|[**Show Your Work: Scratchpads for Intermediate Computation with Language Models**](https://arxiv.org/abs/2112.00114) <br> | DL4C Workshop @ ICLR | 2022 |Code Generation|-|
+|[**Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models**](https://arxiv.org/abs/2305.10276)|COLM| 2024 |Spatial Reasoning/Path Planning|[Github](https://github.com/hanxuhu/chain-of-symbol-planning)|
+|[**Learning to Reason via Program Generation, Emulation, and Search**](https://arxiv.org/abs/2405.16337)|NeurIPS| 2024 |Reasoning|[Github](https://github.com/nweir127/CoGEX)|
+|[**Symbolic Working Memory Enhances Language Models for Complex Rule Application**](https://arxiv.org/pdf/2408.13654)|EMNLP| 2024 |Reasoning|[Github](https://github.com/SiyuanWangw/RuleApplication)|
+|[**CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction**](https://arxiv.org/abs/2502.07316)|Arxiv| 2025 |Reasoning|[Github](https://github.com/hkust-nlp/CodeIO)|
+|[**SKIntern: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models**](https://arxiv.org/pdf/2409.13183)|COLING| 2025 |Reasoning|[Github](https://github.com/Xnhyacinth/SKIntern)|
+|[**Improving Chain-of-Thought Reasoning via Quasi-Symbolic Abstractions**](https://arxiv.org/abs/2502.12616)|Arxiv| 2025 |Reasoning|-|
+|[**ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**](https://arxiv.org/abs/2209.11302) <br> | ICRA | 2023 |Robotics|[Github](https://github.com/NVlabs/progprompt-vh)|
+|[**Programmatically Grounded, Compositionally Generalizable Robotic Manipulation**](https://arxiv.org/pdf/2304.13826) <br> | ICLR | 2023 |Robotics|[Github](https://progport.github.io/)|
+|[**CodePlan: Unlocking Reasoning Potential in Large Language Models by Scaling Code-form Planning**](https://openreview.net/forum?id=dCPF1wlqj8) <br> | ICLR | 2025 |Reasoning|[Github](https://github.com/thu-coai/CodePlan)|
+
 
 ###  Differential Symbolic Modules
 |  Title  |   Venue  |   Date   |   Domain |   Code   |
@@ -305,8 +304,6 @@
 ## Misc on Neuro-Symbolic Learning
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-|[**Harnessing Deep Neural Networks with Logic Rules**](https://arxiv.org/abs/1603.06318) <br> | ACL | 2016 |-|
-|[**Neural-Symbolic Reasoning Under Open-World and Closed-World Assumptions**](https://ceur-ws.org/Vol-3121/paper3.pdf) <br> | AAAI-MAKE | 2022 |-|
 |[**Neuro-Symbolic Entropy Regularization**](https://proceedings.mlr.press/v180/ahmed22a/ahmed22a.pdf) <br> | UAI | 2022 |[Github](https://github.com/UCLA-StarAI/NeSyEntropy)|
 |[**RuleMatch: Matching Abstract Rules for Semi-supervised Learning of Human Standard Intelligence Tests**](https://www.ijcai.org/proceedings/2023/0179.pdf) <br> | IJCAI | 2023 |[Github](https://github.com/ZjjConan/AVR-RuleMatch)|
 |[**Learning with Logical Constraints but without Shortcut Satisfaction**](https://arxiv.org/abs/2403.00329) <br> | ICLR | 2023 |[Github](https://github.com/SoftWiser-group/NeSy-without-Shortcuts)|
@@ -317,8 +314,7 @@
 |[**A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic Inference**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4d9944ab3330fe6af8efb9260aa9f307-Abstract-Conference.html) <br> | NeurIPS | 2023 |-|
 |[**Neuro-Symbolic Continual Learning:Knowledge, Reasoning Shortcuts and Concept Rehearsal**](https://proceedings.mlr.press/v202/marconato23a/marconato23a.pdf) <br> | ICML | 2023 | [Github](https://github.com/ema-marconato/NeSy-CL) |
 |[**Out-of-Distribution Generalization by Neural-Symbolic Joint Training**](https://ojs.aaai.org/index.php/AAAI/article/view/26444) <br> | AAAI | 2023 |[Github](https://github.com/sbx126/NToC)|
-|[**The KANDY Benchmark: Incremental Neuro-Symbolic Learning and Reasoning with Kandinsky Patterns**](https://arxiv.org/abs/2402.17431) <br> | Arxiv | 2024 |-|
-|[**Large Language Models Are NeuroSymbolic Reasoners**](https://arxiv.org/abs/2401.09334) <br> | AAAI | 2024 | Reasoning|[Github](https://github.com/hyintell/LLMSymbolic) |
+|[**Large Language Models Are NeuroSymbolic Reasoners**](https://arxiv.org/abs/2401.09334) <br> | AAAI | 2024 |[Github](https://github.com/hyintell/LLMSymbolic) |
 |[**On the Hardness of Probabilistic Neurosymbolic Learning**](https://proceedings.mlr.press/v235/maene24a.html) <br> | ICML | 2024 |-|
 |[**On the Independence Assumption in Neurosymbolic Learning**](https://openreview.net/pdf?id=S1gSrruVd4) <br> | ICML | 2024 |-|
 |[**Analysis for Abductive Learning and Neural-Symbolic Reasoning Shortcuts**](https://openreview.net/pdf?id=AQYabSOfci) <br> | ICML | 2024 |-|
