@@ -281,6 +281,8 @@
 ###  Differential Symbolic Modules
 |  Title  |   Venue  |   Date   |   Domain |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|[**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf) <br> | NeurIPS | 2018 |Visual Reasoning|[Github](http://nsvqa.csail.mit.edu/)|
+|[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 | [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
 |[**Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”**](https://proceedings.mlr.press/v119/amizadeh20a/amizadeh20a.pdf) <br> | ICML | 2020 |Visual Reasoning|[Github](https://github.com/microsoft/DFOL-VQA)|
 |[**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**](https://arxiv.org/pdf/2208.13266)<br> | Arxiv | 2022 |Robotics| - |
 |[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://jiajunwu.com/papers/left_nips.pdf)<br> | NeurIPS | 2023 | Visual Reasoning |[Github](https://github.com/joyhsu0504/LEFT) |
