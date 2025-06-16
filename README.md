@@ -284,7 +284,11 @@
 |[**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf) <br> | NeurIPS | 2018 |Visual Reasoning|[Github](http://nsvqa.csail.mit.edu/)|
 |[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 |Visual Reasoning| [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
 |[**Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”**](https://proceedings.mlr.press/v119/amizadeh20a/amizadeh20a.pdf) <br> | ICML | 2020 |Visual Reasoning|[Github](https://github.com/microsoft/DFOL-VQA)|
+|[**Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language**](https://arxiv.org/pdf/2110.15358) <br> | NeurIPS | 2021 |Visual Reasoning|[Github](http://vrdp.csail.mit.edu/)|
 |[**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**](https://arxiv.org/pdf/2208.13266)<br> | Arxiv | 2022 |Robotics| - |
+|[**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**](https://arxiv.org/pdf/2303.13483)<br> | CVPR | 2023 | Visual Reasoning |[Github](https://github.com/joyhsu0504/NS3D) |
+|[**Interpretable Neural-Symbolic Concept Reasoning**](https://arxiv.org/pdf/2304.14068)<br> | ICML | 2023 | Interpretable |[Github](https://github.com/pietrobarbiero/pytorch_explain) |
+|[**\alpha ILP: thinking visual scenes as diferentiable logic programs**](https://link.springer.com/content/pdf/10.1007/s10994-023-06320-1.pdf)<br> | Machine Learning | 2023 | Visual Reasoning | |
 |[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://jiajunwu.com/papers/left_nips.pdf)<br> | NeurIPS | 2023 | Visual Reasoning |[Github](https://github.com/joyhsu0504/LEFT) |
 |[**Take A Step Back: Rethinking the Two Stages in Visual Reasoning**](https://arxiv.org/pdf/2407.19666)<br> | ECCV | 2024 | Visual Reasoning |[Github](https://mybearyzhang.github.io/projects/TwoStageReason/) |
 |[**DiLA: Enhancing LLM Tool Learning with Differential Logic Layer**](https://arxiv.org/pdf/2402.11903) <br> | Arxiv | 2024 |Reasoning|-|
