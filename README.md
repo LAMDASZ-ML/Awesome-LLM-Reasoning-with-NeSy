@@ -216,7 +216,7 @@
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[**Visual Programming: Compositional visual reasoning without training**](https://arxiv.org/abs/2211.11559)<br> | CVPR (Best Paper) | 2023 |Visual Reasoning| [Github](https://github.com/allenai/visprog) |
-|[**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128)<br> | CVPR | 2023 |Visual Reasoning|[Github](https://github.com/cvlab-columbia/viper) |
+|[**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128)<br> | ICCV | 2023 |Visual Reasoning|[Github](https://github.com/cvlab-columbia/viper) |
 |[**GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules**](https://openreview.net/forum?id=MNShbDSxKH) <br> | ICLR | 2024 |Visual Reasoning|-|
 |[**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**](https://arxiv.org/pdf/2304.09842)<br> | NeurIPS | 2023 |Multi-Modal Reasoning|[Github](https://github.com/lupantech/chameleon-llm)|
 |[**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**](https://arxiv.org/abs/2303.17580)<br> | NeurIPS| 2023 |Visual Reasoning|-|
@@ -281,16 +281,25 @@
 ###  Differential Symbolic Modules
 |  Title  |   Venue  |   Date   |   Domain |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|[**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf) <br> | NeurIPS | 2018 |Visual Reasoning|[Github](http://nsvqa.csail.mit.edu/)|
-|[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](http://nscl.csail.mit.edu/data/papers/2019ICLR-NSCL.pdf) <br> | ICLR | 2019 |Visual Reasoning| [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
-|[**Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”**](https://proceedings.mlr.press/v119/amizadeh20a/amizadeh20a.pdf) <br> | ICML | 2020 |Visual Reasoning|[Github](https://github.com/microsoft/DFOL-VQA)|
+|[**Inferring and Executing Programs for Visual Reasoning**](https://openaccess.thecvf.com/content_ICCV_2017/papers/Johnson_Inferring_and_Executing_ICCV_2017_paper.pdf) <br> | ICCV | 2017 |Visual Reasoning|[Github](https://github.com/facebookresearch/clevr-iep)|
+|[**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](https://arxiv.org/abs/1810.02338) <br> | NeurIPS | 2018 |Visual Reasoning|[Github](http://nsvqa.csail.mit.edu/)|
+|[**The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](https://arxiv.org/abs/1904.12584) <br> | ICLR | 2019 |Visual Reasoning| [Github](https://github.com/vacancy/NSCL-PyTorch-Release) |
+|[**Visual Concept-Metaconcept Learning**](https://arxiv.org/abs/2002.01464) <br> | NeurIPS | 2019 |Visual Reasoning| [Github](http://vcml.csail.mit.edu/) |
+|[**Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”**](https://arxiv.org/abs/2006.11524) <br> | ICML | 2020 |Visual Reasoning|[Github](https://github.com/microsoft/DFOL-VQA)|
 |[**Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language**](https://arxiv.org/pdf/2110.15358) <br> | NeurIPS | 2021 |Visual Reasoning|[Github](http://vrdp.csail.mit.edu/)|
+|[**Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning**](https://arxiv.org/abs/2103.16564) <br> | ICLR | 2021 |Visual Reasoning|[Github](http://dcl.csail.mit.edu/)|
 |[**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**](https://arxiv.org/pdf/2208.13266)<br> | Arxiv | 2022 |Robotics| - |
+|[**FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations**](https://arxiv.org/abs/2203.16639)<br> | ICLR | 2022 |Visual Reasoning| [Github](https://github.com/JerryLingjieMei/FALCON-Release)|
 |[**NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**](https://arxiv.org/pdf/2303.13483)<br> | CVPR | 2023 | Visual Reasoning |[Github](https://github.com/joyhsu0504/NS3D) |
 |[**Interpretable Neural-Symbolic Concept Reasoning**](https://arxiv.org/pdf/2304.14068)<br> | ICML | 2023 | Interpretable |[Github](https://github.com/pietrobarbiero/pytorch_explain) |
-|[**\alpha ILP: thinking visual scenes as diferentiable logic programs**](https://link.springer.com/content/pdf/10.1007/s10994-023-06320-1.pdf)<br> | Machine Learning | 2023 | Visual Reasoning | |
-|[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://jiajunwu.com/papers/left_nips.pdf)<br> | NeurIPS | 2023 | Visual Reasoning |[Github](https://github.com/joyhsu0504/LEFT) |
+|[**Motion Question Answering via Modular Motion Programs**](https://arxiv.org/pdf/2305.08953)<br> | ICML | 2023 | Motion QA |[Github](https://github.com/markendo/HumanMotionQA) |
+|[**Learning Neuro-symbolic Programs for Language Guided Robot Manipulation**](https://arxiv.org/abs/2211.06652)<br> | ICRA | 2023 | Robotics |[Github](https://nsrmp.github.io/) |
+|[**\alpha ILP: thinking visual scenes as differentiable logic programs**](https://link.springer.com/content/pdf/10.1007/s10994-023-06320-1.pdf)<br> | Machine Learning | 2023 | Visual Reasoning | |
+|[**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://arxiv.org/abs/2310.16035)<br> | NeurIPS | 2023 | Visual Reasoning |[Github](https://github.com/joyhsu0504/LEFT) |
+|[**Programmatically Grounded, Compositionally Generalizable Robotic Manipulation**](https://arxiv.org/pdf/2304.13826) <br> | ICLR | 2023 |Robotics|[Github](https://progport.github.io/)|
+|[**Neuro-Symbolic Predicate Invention:Learning Relational Concepts from Visual Scenes**](https://neurosymbolic-ai-journal.com/system/files/nai-paper-712.pdf)<br> | NSAI | 2024 | Visual Reasoning |[Github](https://github.com/ml-research/NeSy-PI) |
 |[**Take A Step Back: Rethinking the Two Stages in Visual Reasoning**](https://arxiv.org/pdf/2407.19666)<br> | ECCV | 2024 | Visual Reasoning |[Github](https://mybearyzhang.github.io/projects/TwoStageReason/) |
+|[**Learning Differentiable Logic Programs for Abstract Visual Reasoning**](https://arxiv.org/pdf/2307.00928) <br> | MLJ | 2024 |Visual Reasoning|-|
 |[**DiLA: Enhancing LLM Tool Learning with Differential Logic Layer**](https://arxiv.org/pdf/2402.11903) <br> | Arxiv | 2024 |Reasoning|-|
 |[**Mastering Symbolic Operations: Augmenting Language Models with Compiled Neural Networks**](https://arxiv.org/abs/2304.01665)<br> | ICLR | 2024 |Reasoning| [Github](https://github.com/wengsyx/Neural-Comprehension) |
 |[**Empowering Language Models with Knowledge Graph Reasoning for Question Answering**](https://arxiv.org/pdf/2211.08380)<br> | EMNLP | 2022 |Reasoning|-|
